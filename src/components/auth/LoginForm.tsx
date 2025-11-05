@@ -24,6 +24,16 @@ export function LoginForm({ onToggleMode, onForgotPassword }: LoginFormProps) {
     setError('');
     setLoading(true);
 
+    // Demo account bypass
+    if (email === 'demo@smbanalytics.com' && password === 'demo123') {
+      setSuccess(true);
+      setTimeout(() => {
+        window.location.href = '/dashboard';
+      }, 1000);
+      setLoading(false);
+      return;
+    }
+
     try {
       await signIn(email, password);
       setSuccess(true);
