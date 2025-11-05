@@ -4,6 +4,15 @@ const nextConfig = {
   // output: 'export', // Removed for Vercel deployment
   // distDir: 'out', // Removed for Vercel deployment
   
+  // Exclude Firebase Functions from build
+  webpack: (config, { isServer }) => {
+    if (isServer) {
+      config.externals = config.externals || [];
+      config.externals.push('firebase-functions');
+    }
+    return config;
+  },
+  
   // Disable static optimization for dynamic routes
   trailingSlash: false,
   
