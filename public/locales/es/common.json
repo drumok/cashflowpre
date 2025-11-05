@@ -1,0 +1,121 @@
+{
+  "navigation": {
+    "features": "Características",
+    "demo": "Demo",
+    "pricing": "Precios",
+    "login": "Iniciar Sesión",
+    "signup": "Comenzar"
+  },
+  "hero": {
+    "badge": "Convierte los Datos de tu Negocio en Ingresos Hoy",
+    "headline": {
+      "transform": "Transforma los",
+      "data": "Datos de tu PYME",
+      "revenue": "en Ingresos"
+    },
+    "subtitle": "Obtén información procesable inmediata con información de contacto y herramientas de comunicación de un clic. No se requiere configuración compleja.",
+    "cta": {
+      "primary": "Comenzar Análisis Gratis",
+      "secondary": "Ver Demo"
+    },
+    "stats": {
+      "smbs": "280M+ PYMEs",
+      "impact": "$25K Impacto Promedio",
+      "languages": "10 Idiomas"
+    },
+    "trust": "Confiado por PYMEs en todo el mundo"
+  },
+  "features": {
+    "title": "Análisis Potente y Generación de Leads",
+    "subtitle": "Transforma los datos básicos de tu negocio en oportunidades de ingresos inmediatas con nuestro conjunto completo de herramientas de análisis y generación de leads.",
+    "analytics": {
+      "title": "Análisis de Negocio (8 Modelos Principales)"
+    },
+    "leads": {
+      "title": "Generación de Leads (5 Tipos Principales)"
+    },
+    "benefits": {
+      "title": "Por Qué las PYMEs Eligen Nuestra Plataforma",
+      "immediate": {
+        "title": "Resultados Inmediatos",
+        "description": "Obtén información procesable con información de contacto en minutos, no semanas."
+      },
+      "global": {
+        "title": "Listo para el Mundo",
+        "description": "10 idiomas, monedas locales y adaptación cultural para PYMEs mundiales."
+      },
+      "action": {
+        "title": "Acción de Un Clic",
+        "description": "Integración de WhatsApp, email y teléfono con plantillas prellenadas."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Precios Simples y Transparentes",
+    "subtitle": "Elige el plan que se adapte a las necesidades de tu negocio. Todos los planes incluyen nuestras características principales de análisis y generación de leads.",
+    "popular": "Más Popular",
+    "plans": {
+      "free": {
+        "description": "Perfecto para probar nuestra plataforma",
+        "cta": "Comenzar Gratis"
+      },
+      "pro": {
+        "description": "Mejor para PYMEs en crecimiento",
+        "cta": "Comenzar"
+      },
+      "pro_plus": {
+        "description": "Para negocios establecidos",
+        "cta": "Comenzar"
+      }
+    },
+    "includes": "Todos los Planes Incluyen",
+    "enterprise": {
+      "question": "¿Necesitas una solución personalizada para tu empresa?",
+      "cta": "Contactar Ventas →"
+    }
+  },
+  "demo": {
+    "title": "Míralo en Acción",
+    "subtitle": "Mira cómo nuestra plataforma transforma los datos de tu negocio en oportunidades de ingresos inmediatas en solo 4 pasos simples.",
+    "try": {
+      "title": "Prueba con Datos de Ejemplo",
+      "description": "¿No tienes tus datos listos? ¡No hay problema! Prueba nuestra plataforma con datos de muestra de PYME para ver exactamente cómo funciona.",
+      "cta": {
+        "demo": "Probar Panel de Demo",
+        "upload": "Subir Tus Datos"
+      }
+    },
+    "results": {
+      "title": "Resultados Reales de PYMEs"
+    }
+  },
+  "footer": {
+    "description": "Transforma los datos de tu negocio en oportunidades de ingresos inmediatas con nuestra plataforma global de análisis para PYMEs.",
+    "product": "Producto",
+    "company": "Empresa",
+    "support": "Soporte",
+    "global": "Disponible en Todo el Mundo",
+    "copyright": "Plataforma de Análisis para PYMEs. Todos los derechos reservados."
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "view": "Ver",
+    "close": "Cerrar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "export": "Exportar",
+    "import": "Importar",
+    "upload": "Subir",
+    "download": "Descargar"
+  }
+}

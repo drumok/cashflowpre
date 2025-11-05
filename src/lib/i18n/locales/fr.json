@@ -1,0 +1,377 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "view": "Voir",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "export": "Exporter",
+    "import": "Importer",
+    "download": "Télécharger",
+    "upload": "Téléverser",
+    "close": "Fermer",
+    "open": "Ouvrir",
+    "yes": "Oui",
+    "no": "Non",
+    "ok": "OK"
+  },
+  "navigation": {
+    "dashboard": "Tableau de Bord",
+    "analytics": "Analyses",
+    "leads": "Génération de Prospects",
+    "settings": "Paramètres",
+    "profile": "Profil",
+    "billing": "Facturation",
+    "help": "Aide",
+    "logout": "Se Déconnecter"
+  },
+  "auth": {
+    "signIn": "Se Connecter",
+    "signUp": "S'Inscrire",
+    "signOut": "Se Déconnecter",
+    "email": "Adresse Email",
+    "password": "Mot de Passe",
+    "confirmPassword": "Confirmer le Mot de Passe",
+    "fullName": "Nom Complet",
+    "forgotPassword": "Mot de passe oublié ?",
+    "resetPassword": "Réinitialiser le Mot de Passe",
+    "rememberMe": "Se souvenir de moi",
+    "signInWithGoogle": "Se connecter avec Google",
+    "signUpWithGoogle": "S'inscrire avec Google",
+    "alreadyHaveAccount": "Vous avez déjà un compte ?",
+    "dontHaveAccount": "Vous n'avez pas de compte ?",
+    "createAccount": "Créer un Compte",
+    "welcomeBack": "Bon Retour",
+    "signInToAccount": "Connectez-vous à votre compte SMB Analytics",
+    "startJourney": "Commencez votre parcours avec SMB Analytics",
+    "acceptTerms": "J'accepte les Conditions de Service et la Politique de Confidentialité",
+    "checkEmail": "Vérifiez votre Email",
+    "resetLinkSent": "Nous avons envoyé un lien de réinitialisation à votre email",
+    "backToSignIn": "Retour à la Connexion"
+  },
+  "landing": {
+    "hero": {
+      "title": "Transformez les Données de votre Entreprise en Revenus Aujourd'hui",
+      "subtitle": "Plateforme Mondiale d'Analyse et de Génération de Prospects pour PME qui convertit les données commerciales de base en opportunités de revenus immédiates avec des actions centrées sur les contacts.",
+      "cta": "Commencer l'Analyse Gratuite",
+      "watchDemo": "Voir la Démo",
+      "trustedBy": "Approuvé par plus de 10 000 PME dans le monde"
+    },
+    "features": {
+      "title": "Transformez les Données en Revenus",
+      "subtitle": "8 Analyses Principales + 5 Types de Génération de Prospects",
+      "analytics": {
+        "title": "Analyse d'Entreprise",
+        "subtitle": "8 Modèles Principaux",
+        "salesForecasting": "Prévision des Ventes",
+        "customerAnalysis": "Analyse Client",
+        "cashFlow": "Prédiction de Flux de Trésorerie",
+        "paymentAnalysis": "Analyse des Paiements",
+        "productPerformance": "Performance Produit",
+        "seasonalTrends": "Tendances Saisonnières",
+        "customerRetention": "Rétention Client",
+        "profitability": "Analyse de Rentabilité"
+      },
+      "leads": {
+        "title": "Génération de Prospects",
+        "subtitle": "5 Types Principaux",
+        "overduePayment": "Récupération de Paiements en Retard",
+        "customerReactivation": "Réactivation Client",
+        "topCustomerUpsell": "Vente Additionnelle aux Meilleurs Clients",
+        "newCustomerProspects": "Nouveaux Prospects Clients",
+        "seasonalOpportunity": "Opportunités Saisonnières"
+      }
+    },
+    "pricing": {
+      "title": "Tarifs Simples et Transparents",
+      "subtitle": "Choisissez le plan qui correspond aux besoins de votre entreprise",
+      "monthly": "Mensuel",
+      "yearly": "Annuel",
+      "save": "Économisez 20%",
+      "free": {
+        "name": "Gratuit",
+        "price": "0€",
+        "period": "/mois",
+        "description": "Parfait pour commencer",
+        "features": [
+          "5MB de téléversement de données",
+          "5 analyses par mois",
+          "1 utilisateur",
+          "Analyses de base",
+          "Support par email"
+        ],
+        "cta": "Commencer Gratuitement"
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "89€",
+        "period": "/mois",
+        "description": "Pour les entreprises en croissance",
+        "features": [
+          "1GB de téléversement de données",
+          "2000 analyses par mois",
+          "1 admin + 2 membres d'équipe",
+          "50GB de stockage cloud",
+          "Toutes les analyses et génération de prospects",
+          "Intégration WhatsApp et email",
+          "Support prioritaire"
+        ],
+        "cta": "Commencer l'Essai Pro",
+        "popular": "Le Plus Populaire"
+      },
+      "proPlusName": "Pro Plus",
+      "proPlusPrice": "179€",
+      "proPlusPeriod": "/mois",
+      "proPlusDescription": "Pour les entreprises établies",
+      "proPlusFeatures": [
+        "5GB de téléversement de données",
+        "5000 analyses par mois",
+        "1 admin + 3 membres d'équipe",
+        "100GB de stockage cloud",
+        "Toutes les fonctionnalités + export avancé",
+        "Intégrations personnalisées",
+        "Support prioritaire"
+      ],
+      "proPlusCta": "Commencer l'Essai Pro Plus"
+    },
+    "demo": {
+      "title": "Voyez-le en Action",
+      "subtitle": "4 Étapes Simples pour la Croissance des Revenus",
+      "step1": {
+        "title": "Téléversez vos Données",
+        "description": "Fichiers CSV avec ventes, clients ou factures"
+      },
+      "step2": {
+        "title": "Choisissez le Type d'Analyse",
+        "description": "8 modèles d'analyse + 5 types de génération de prospects"
+      },
+      "step3": {
+        "title": "Obtenez des Insights Actionnables",
+        "description": "Noms de contacts, impact sur les revenus, niveaux de priorité"
+      },
+      "step4": {
+        "title": "Passez à l'Action Immédiatement",
+        "description": "Communication en un clic par téléphone, email, WhatsApp"
+      },
+      "tryDemo": "Essayer la Démo Maintenant"
+    }
+  },
+  "dashboard": {
+    "title": "Tableau de Bord d'Intelligence d'Affaires",
+    "subtitle": "Transformez les données de votre entreprise en opportunités de revenus immédiates",
+    "analytics": {
+      "title": "Aperçu des Analyses",
+      "totalRevenue": "Revenus Totaux",
+      "totalCustomers": "Clients Totaux",
+      "avgOrderValue": "Valeur Moyenne de Commande",
+      "conversionRate": "Taux de Conversion",
+      "runAnalysis": "Lancer une Nouvelle Analyse",
+      "viewReports": "Voir les Rapports"
+    },
+    "leads": {
+      "title": "Génération de Prospects",
+      "totalLeads": "Prospects Totaux",
+      "highPriority": "Haute Priorité",
+      "revenueOpportunity": "Opportunité de Revenus",
+      "conversionRate": "Taux de Conversion",
+      "generateLeads": "Générer de Nouveaux Prospects",
+      "viewLeads": "Voir Tous les Prospects"
+    },
+    "quickActions": {
+      "title": "Actions Rapides",
+      "uploadData": "Téléverser des Données",
+      "runAnalytics": "Lancer des Analyses",
+      "generateLeads": "Générer des Prospects",
+      "exportResults": "Exporter les Résultats",
+      "viewReports": "Voir les Rapports",
+      "manageTeam": "Gérer l'Équipe"
+    },
+    "recentActivity": {
+      "title": "Activité Récente",
+      "noActivity": "Aucune activité récente"
+    }
+  },
+  "analytics": {
+    "title": "Analyse d'Entreprise",
+    "subtitle": "8 Modèles d'Analyse Principaux avec Insights Centrés sur les Contacts",
+    "uploadData": "Téléverser des Données",
+    "selectAnalysis": "Sélectionner le Type d'Analyse",
+    "runAnalysis": "Lancer l'Analyse",
+    "viewResults": "Voir les Résultats",
+    "modules": {
+      "salesForecasting": {
+        "title": "Prévision des Ventes",
+        "description": "Prédit les ventes futures en utilisant l'analyse de régression linéaire",
+        "dataRequired": "Données de ventes avec dates et montants"
+      },
+      "customerAnalysis": {
+        "title": "Analyse Client",
+        "description": "Segmente les clients en utilisant l'analyse RFM",
+        "dataRequired": "Noms des clients et historique d'achats"
+      },
+      "cashFlow": {
+        "title": "Prédiction de Flux de Trésorerie",
+        "description": "Prévoit le flux de trésorerie en utilisant des moyennes mobiles",
+        "dataRequired": "Données de revenus et dépenses"
+      },
+      "paymentAnalysis": {
+        "title": "Analyse des Paiements",
+        "description": "Analyse les modèles de paiement et identifie les comptes en retard",
+        "dataRequired": "Données de factures et paiements"
+      },
+      "productPerformance": {
+        "title": "Performance Produit",
+        "description": "Classe les produits par revenus et rentabilité",
+        "dataRequired": "Données de ventes de produits"
+      },
+      "seasonalTrends": {
+        "title": "Tendances Saisonnières",
+        "description": "Identifie les modèles saisonniers dans votre entreprise",
+        "dataRequired": "Données de ventes sur plusieurs mois"
+      },
+      "customerRetention": {
+        "title": "Rétention Client",
+        "description": "Prédit l'attrition client et identifie les clients à risque",
+        "dataRequired": "Historique d'achats des clients"
+      },
+      "profitability": {
+        "title": "Analyse de Rentabilité",
+        "description": "Calcule les marges et identifie les opportunités de profit",
+        "dataRequired": "Données de revenus et coûts"
+      }
+    }
+  },
+  "leads": {
+    "title": "Génération de Prospects",
+    "subtitle": "5 Types de Prospects Principaux avec Actions Centrées sur les Contacts",
+    "generateLeads": "Générer des Prospects",
+    "exportLeads": "Exporter les Prospects",
+    "filterLeads": "Filtrer les Prospects",
+    "searchLeads": "Rechercher des Prospects",
+    "allTypes": "Tous les Types",
+    "allUrgency": "Toute Urgence",
+    "highPriority": "Haute Priorité",
+    "mediumPriority": "Priorité Moyenne",
+    "lowPriority": "Basse Priorité",
+    "callNow": "Appeler Maintenant",
+    "sendEmail": "Envoyer un Email",
+    "sendWhatsApp": "Envoyer WhatsApp",
+    "revenueRange": "Gamme de Revenus",
+    "urgency": "Urgence",
+    "generatedAt": "Généré",
+    "noLeads": "Aucun prospect trouvé",
+    "adjustFilters": "Essayez d'ajuster vos filtres ou de générer de nouveaux prospects",
+    "modules": {
+      "overduePayment": {
+        "title": "Récupération de Paiements en Retard",
+        "description": "Identifie les clients avec des paiements en retard et un fort potentiel de récupération",
+        "revenueRange": "4,5K€ - 22,5K€ potentiel"
+      },
+      "customerReactivation": {
+        "title": "Réactivation Client",
+        "description": "Trouve les clients inactifs prêts pour des campagnes de réactivation",
+        "revenueRange": "2,7K€ - 13,5K€ potentiel"
+      },
+      "topCustomerUpsell": {
+        "title": "Vente Additionnelle aux Meilleurs Clients",
+        "description": "Identifie les clients de haute valeur pour la vente additionnelle de produits premium",
+        "revenueRange": "7,2K€ - 36K€ potentiel"
+      },
+      "newCustomerProspects": {
+        "title": "Nouveaux Prospects Clients",
+        "description": "Note et priorise les nouveaux clients potentiels basés sur des modèles",
+        "revenueRange": "1,8K€ - 10,8K€ potentiel"
+      },
+      "seasonalOpportunity": {
+        "title": "Opportunités Saisonnières",
+        "description": "Détecte les modèles saisonniers et les prochaines opportunités de vente",
+        "revenueRange": "900€ - 7,2K€ potentiel"
+      }
+    },
+    "actions": {
+      "title": "Actions de Prospects",
+      "summary": "Résumé des Prospects",
+      "quickActions": "Actions Rapides",
+      "templates": "Modèles de Messages",
+      "revenueTracker": "Opportunité de Revenus",
+      "performanceTips": "Conseils de Performance",
+      "bulkEmail": "Envoyer un Email en Masse",
+      "callList": "Générer une Liste d'Appels",
+      "whatsappCampaign": "Campagne WhatsApp",
+      "exportCrm": "Exporter vers CRM",
+      "totalPotential": "Potentiel Total",
+      "expectedRevenue": "Revenus Attendus",
+      "conversionRate": "Taux de Conversion"
+    }
+  },
+  "currency": {
+    "usd": "$",
+    "eur": "€",
+    "gbp": "£",
+    "jpy": "¥",
+    "cny": "¥",
+    "inr": "₹",
+    "brl": "R$",
+    "cad": "C$",
+    "aud": "A$",
+    "chf": "CHF",
+    "krw": "₩",
+    "sgd": "S$",
+    "hkd": "HK$",
+    "nok": "kr",
+    "sek": "kr",
+    "dkk": "kr",
+    "pln": "zł",
+    "czk": "Kč",
+    "huf": "Ft",
+    "rub": "₽",
+    "try": "₺",
+    "zar": "R",
+    "mxn": "$",
+    "clp": "$",
+    "cop": "$",
+    "pen": "S/",
+    "ars": "$",
+    "uyu": "$",
+    "aed": "د.إ",
+    "sar": "ر.س",
+    "qar": "ر.ق",
+    "kwd": "د.ك",
+    "bhd": "د.ب",
+    "omr": "ر.ع",
+    "jod": "د.ا",
+    "egp": "ج.م",
+    "mad": "د.م",
+    "tnd": "د.ت"
+  },
+  "errors": {
+    "generic": "Quelque chose s'est mal passé. Veuillez réessayer.",
+    "network": "Erreur réseau. Veuillez vérifier votre connexion.",
+    "unauthorized": "Vous n'êtes pas autorisé à effectuer cette action.",
+    "notFound": "La ressource demandée n'a pas été trouvée.",
+    "validation": "Veuillez vérifier votre saisie et réessayer.",
+    "fileUpload": "Le téléversement du fichier a échoué. Veuillez réessayer.",
+    "fileTooLarge": "Le fichier est trop volumineux. La taille maximale est de {maxSize}MB.",
+    "invalidFileType": "Type de fichier invalide. Veuillez téléverser un fichier CSV.",
+    "loginFailed": "La connexion a échoué. Veuillez vérifier vos identifiants.",
+    "signupFailed": "L'inscription a échoué. Veuillez réessayer.",
+    "passwordReset": "La réinitialisation du mot de passe a échoué. Veuillez réessayer."
+  },
+  "success": {
+    "dataSaved": "Données enregistrées avec succès",
+    "analysisComplete": "Analyse terminée avec succès",
+    "leadsGenerated": "Prospects générés avec succès",
+    "emailSent": "Email envoyé avec succès",
+    "profileUpdated": "Profil mis à jour avec succès",
+    "passwordReset": "Email de réinitialisation du mot de passe envoyé",
+    "accountCreated": "Compte créé avec succès"
+  }
+}

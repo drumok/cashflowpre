@@ -1,0 +1,248 @@
+{
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功",
+    "cancel": "取消",
+    "save": "保存",
+    "delete": "删除",
+    "edit": "编辑",
+    "view": "查看",
+    "back": "返回",
+    "next": "下一步",
+    "previous": "上一步",
+    "search": "搜索",
+    "filter": "筛选",
+    "export": "导出",
+    "import": "导入",
+    "download": "下载",
+    "upload": "上传",
+    "close": "关闭",
+    "open": "打开",
+    "yes": "是",
+    "no": "否",
+    "ok": "确定"
+  },
+  "navigation": {
+    "dashboard": "仪表板",
+    "analytics": "分析",
+    "leads": "潜客生成",
+    "settings": "设置",
+    "profile": "个人资料",
+    "billing": "账单",
+    "help": "帮助",
+    "logout": "退出登录"
+  },
+  "auth": {
+    "signIn": "登录",
+    "signUp": "注册",
+    "signOut": "退出登录",
+    "email": "邮箱地址",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+    "fullName": "全名",
+    "forgotPassword": "忘记密码？",
+    "resetPassword": "重置密码",
+    "rememberMe": "记住我",
+    "signInWithGoogle": "使用Google登录",
+    "signUpWithGoogle": "使用Google注册",
+    "alreadyHaveAccount": "已有账户？",
+    "dontHaveAccount": "还没有账户？",
+    "createAccount": "创建账户",
+    "welcomeBack": "欢迎回来",
+    "signInToAccount": "登录您的SMB Analytics账户",
+    "startJourney": "开始您的SMB Analytics之旅",
+    "acceptTerms": "我同意服务条款和隐私政策",
+    "checkEmail": "检查您的邮箱",
+    "resetLinkSent": "我们已向您的邮箱发送重置链接",
+    "backToSignIn": "返回登录"
+  },
+  "landing": {
+    "hero": {
+      "title": "今天就将您的业务数据转化为收入",
+      "subtitle": "全球中小企业分析和潜客生成平台，将基础业务数据转化为以联系人为中心的即时收入机会。",
+      "cta": "开始免费分析",
+      "watchDemo": "观看演示",
+      "trustedBy": "全球超过10,000家中小企业的信赖选择"
+    },
+    "features": {
+      "title": "将数据转化为收入",
+      "subtitle": "8个核心分析 + 5种潜客生成类型",
+      "analytics": {
+        "title": "业务分析",
+        "subtitle": "8个核心模型",
+        "salesForecasting": "销售预测",
+        "customerAnalysis": "客户分析",
+        "cashFlow": "现金流预测",
+        "paymentAnalysis": "付款分析",
+        "productPerformance": "产品表现",
+        "seasonalTrends": "季节性趋势",
+        "customerRetention": "客户留存",
+        "profitability": "盈利能力分析"
+      },
+      "leads": {
+        "title": "潜客生成",
+        "subtitle": "5个核心类型",
+        "overduePayment": "逾期付款回收",
+        "customerReactivation": "客户重新激活",
+        "topCustomerUpsell": "顶级客户追加销售",
+        "newCustomerProspects": "新客户潜在客户",
+        "seasonalOpportunity": "季节性机会"
+      }
+    },
+    "pricing": {
+      "title": "简单透明的定价",
+      "subtitle": "选择适合您业务需求的计划",
+      "monthly": "月付",
+      "yearly": "年付",
+      "save": "节省20%",
+      "free": {
+        "name": "免费",
+        "price": "¥0",
+        "period": "/月",
+        "description": "完美的入门选择",
+        "features": [
+          "5MB数据上传",
+          "每月5次分析",
+          "1个用户",
+          "基础分析",
+          "邮件支持"
+        ],
+        "cta": "免费开始"
+      },
+      "pro": {
+        "name": "专业版",
+        "price": "¥699",
+        "period": "/月",
+        "description": "适合成长中的企业",
+        "features": [
+          "1GB数据上传",
+          "每月2000次分析",
+          "1个管理员 + 2个团队成员",
+          "50GB云存储",
+          "所有分析和潜客生成",
+          "WhatsApp和邮件集成",
+          "优先支持"
+        ],
+        "cta": "开始专业版试用",
+        "popular": "最受欢迎"
+      },
+      "proPlusName": "专业增强版",
+      "proPlusPrice": "¥1,399",
+      "proPlusPeriod": "/月",
+      "proPlusDescription": "适合成熟企业",
+      "proPlusFeatures": [
+        "5GB数据上传",
+        "每月5000次分析",
+        "1个管理员 + 3个团队成员",
+        "100GB云存储",
+        "所有功能 + 高级导出",
+        "自定义集成",
+        "优先支持"
+      ],
+      "proPlusCta": "开始专业增强版试用"
+    },
+    "demo": {
+      "title": "实际操作演示",
+      "subtitle": "收入增长的4个简单步骤",
+      "step1": {
+        "title": "上传您的数据",
+        "description": "包含销售、客户或发票的CSV文件"
+      },
+      "step2": {
+        "title": "选择分析类型",
+        "description": "8个分析模型 + 5种潜客生成类型"
+      },
+      "step3": {
+        "title": "获得可操作的洞察",
+        "description": "联系人姓名、收入影响、优先级别"
+      },
+      "step4": {
+        "title": "立即采取行动",
+        "description": "通过电话、邮件、WhatsApp一键沟通"
+      },
+      "tryDemo": "立即试用演示"
+    }
+  },
+  "dashboard": {
+    "title": "商业智能仪表板",
+    "subtitle": "将您的业务数据转化为即时收入机会",
+    "analytics": {
+      "title": "分析概览",
+      "totalRevenue": "总收入",
+      "totalCustomers": "总客户数",
+      "avgOrderValue": "平均订单价值",
+      "conversionRate": "转化率",
+      "runAnalysis": "运行新分析",
+      "viewReports": "查看报告"
+    },
+    "leads": {
+      "title": "潜客生成",
+      "totalLeads": "总潜客数",
+      "highPriority": "高优先级",
+      "revenueOpportunity": "收入机会",
+      "conversionRate": "转化率",
+      "generateLeads": "生成新潜客",
+      "viewLeads": "查看所有潜客"
+    },
+    "quickActions": {
+      "title": "快速操作",
+      "uploadData": "上传数据",
+      "runAnalytics": "运行分析",
+      "generateLeads": "生成潜客",
+      "exportResults": "导出结果",
+      "viewReports": "查看报告",
+      "manageTeam": "管理团队"
+    },
+    "recentActivity": {
+      "title": "最近活动",
+      "noActivity": "暂无最近活动"
+    }
+  },
+  "analytics": {
+    "title": "业务分析",
+    "subtitle": "8个以联系人为中心的核心分析模型",
+    "uploadData": "上传数据",
+    "selectAnalysis": "选择分析类型",
+    "runAnalysis": "运行分析",
+    "viewResults": "查看结果"
+  },
+  "leads": {
+    "title": "潜客生成",
+    "subtitle": "5种以联系人为中心的核心潜客类型",
+    "generateLeads": "生成潜客",
+    "exportLeads": "导出潜客",
+    "filterLeads": "筛选潜客",
+    "searchLeads": "搜索潜客",
+    "allTypes": "所有类型",
+    "allUrgency": "所有紧急程度",
+    "highPriority": "高优先级",
+    "mediumPriority": "中优先级",
+    "lowPriority": "低优先级",
+    "callNow": "立即致电",
+    "sendEmail": "发送邮件",
+    "sendWhatsApp": "发送WhatsApp"
+  },
+  "errors": {
+    "generic": "出现错误，请重试。",
+    "network": "网络错误，请检查您的连接。",
+    "unauthorized": "您无权执行此操作。",
+    "notFound": "未找到请求的资源。",
+    "validation": "请检查您的输入并重试。",
+    "fileUpload": "文件上传失败，请重试。",
+    "fileTooLarge": "文件过大，最大大小为{maxSize}MB。",
+    "invalidFileType": "无效的文件类型，请上传CSV文件。",
+    "loginFailed": "登录失败，请检查您的凭据。",
+    "signupFailed": "注册失败，请重试。",
+    "passwordReset": "密码重置失败，请重试。"
+  },
+  "success": {
+    "dataSaved": "数据保存成功",
+    "analysisComplete": "分析完成成功",
+    "leadsGenerated": "潜客生成成功",
+    "emailSent": "邮件发送成功",
+    "profileUpdated": "个人资料更新成功",
+    "passwordReset": "密码重置邮件已发送",
+    "accountCreated": "账户创建成功"
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "view": "Ver",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "export": "Exportar",
+    "import": "Importar",
+    "download": "Descargar",
+    "upload": "Subir",
+    "close": "Cerrar",
+    "open": "Abrir",
+    "yes": "Sí",
+    "no": "No",
+    "ok": "OK"
+  },
+  "navigation": {
+    "dashboard": "Panel de Control",
+    "analytics": "Análisis",
+    "leads": "Generación de Leads",
+    "settings": "Configuración",
+    "profile": "Perfil",
+    "billing": "Facturación",
+    "help": "Ayuda",
+    "logout": "Cerrar Sesión"
+  },
+  "auth": {
+    "signIn": "Iniciar Sesión",
+    "signUp": "Registrarse",
+    "signOut": "Cerrar Sesión",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar Contraseña",
+    "fullName": "Nombre Completo",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "resetPassword": "Restablecer Contraseña",
+    "rememberMe": "Recordarme",
+    "signInWithGoogle": "Iniciar sesión con Google",
+    "signUpWithGoogle": "Registrarse con Google",
+    "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+    "dontHaveAccount": "¿No tienes una cuenta?",
+    "createAccount": "Crear Cuenta",
+    "welcomeBack": "Bienvenido de Nuevo",
+    "signInToAccount": "Inicia sesión en tu cuenta de SMB Analytics",
+    "startJourney": "Comienza tu viaje con SMB Analytics",
+    "acceptTerms": "Acepto los Términos de Servicio y la Política de Privacidad",
+    "checkEmail": "Revisa tu Correo",
+    "resetLinkSent": "Hemos enviado un enlace de restablecimiento a tu correo",
+    "backToSignIn": "Volver a Iniciar Sesión"
+  },
+  "landing": {
+    "hero": {
+      "title": "Convierte los Datos de tu Negocio en Ingresos Hoy",
+      "subtitle": "Plataforma Global de Análisis y Generación de Leads para PyMEs que convierte datos básicos de negocio en oportunidades inmediatas de ingresos con acciones centradas en contactos.",
+      "cta": "Comenzar Análisis Gratis",
+      "watchDemo": "Ver Demo",
+      "trustedBy": "Confiado por más de 10,000 PyMEs en todo el mundo"
+    },
+    "features": {
+      "title": "Transforma Datos en Ingresos",
+      "subtitle": "8 Análisis Principales + 5 Tipos de Generación de Leads",
+      "analytics": {
+        "title": "Análisis de Negocio",
+        "subtitle": "8 Modelos Principales",
+        "salesForecasting": "Pronóstico de Ventas",
+        "customerAnalysis": "Análisis de Clientes",
+        "cashFlow": "Predicción de Flujo de Caja",
+        "paymentAnalysis": "Análisis de Pagos",
+        "productPerformance": "Rendimiento de Productos",
+        "seasonalTrends": "Tendencias Estacionales",
+        "customerRetention": "Retención de Clientes",
+        "profitability": "Análisis de Rentabilidad"
+      },
+      "leads": {
+        "title": "Generación de Leads",
+        "subtitle": "5 Tipos Principales",
+        "overduePayment": "Recuperación de Pagos Vencidos",
+        "customerReactivation": "Reactivación de Clientes",
+        "topCustomerUpsell": "Venta Adicional a Mejores Clientes",
+        "newCustomerProspects": "Nuevos Prospectos de Clientes",
+        "seasonalOpportunity": "Oportunidades Estacionales"
+      }
+    },
+    "pricing": {
+      "title": "Precios Simples y Transparentes",
+      "subtitle": "Elige el plan que se adapte a las necesidades de tu negocio",
+      "monthly": "Mensual",
+      "yearly": "Anual",
+      "save": "Ahorra 20%",
+      "free": {
+        "name": "Gratis",
+        "price": "$0",
+        "period": "/mes",
+        "description": "Perfecto para comenzar",
+        "features": [
+          "5MB de carga de datos",
+          "5 análisis por mes",
+          "1 usuario",
+          "Análisis básicos",
+          "Soporte por correo"
+        ],
+        "cta": "Comenzar Gratis"
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "$99",
+        "period": "/mes",
+        "description": "Para negocios en crecimiento",
+        "features": [
+          "1GB de carga de datos",
+          "2000 análisis por mes",
+          "1 admin + 2 miembros del equipo",
+          "50GB de almacenamiento en la nube",
+          "Todos los análisis y generación de leads",
+          "Integración WhatsApp y correo",
+          "Soporte prioritario"
+        ],
+        "cta": "Comenzar Prueba Pro",
+        "popular": "Más Popular"
+      },
+      "proPlusName": "Pro Plus",
+      "proPlusPrice": "$199",
+      "proPlusPeriod": "/mes",
+      "proPlusDescription": "Para negocios establecidos",
+      "proPlusFeatures": [
+        "5GB de carga de datos",
+        "5000 análisis por mes",
+        "1 admin + 3 miembros del equipo",
+        "100GB de almacenamiento en la nube",
+        "Todas las funciones + exportación avanzada",
+        "Integraciones personalizadas",
+        "Soporte prioritario"
+      ],
+      "proPlusCta": "Comenzar Prueba Pro Plus"
+    },
+    "demo": {
+      "title": "Míralo en Acción",
+      "subtitle": "4 Pasos Simples para el Crecimiento de Ingresos",
+      "step1": {
+        "title": "Sube tus Datos",
+        "description": "Archivos CSV con ventas, clientes o facturas"
+      },
+      "step2": {
+        "title": "Elige el Tipo de Análisis",
+        "description": "8 modelos de análisis + 5 tipos de generación de leads"
+      },
+      "step3": {
+        "title": "Obtén Insights Accionables",
+        "description": "Nombres de contactos, impacto en ingresos, niveles de prioridad"
+      },
+      "step4": {
+        "title": "Toma Acción Inmediata",
+        "description": "Comunicación con un clic por teléfono, correo, WhatsApp"
+      },
+      "tryDemo": "Probar Demo Ahora"
+    }
+  },
+  "dashboard": {
+    "title": "Panel de Inteligencia de Negocio",
+    "subtitle": "Transforma los datos de tu negocio en oportunidades inmediatas de ingresos",
+    "analytics": {
+      "title": "Resumen de Análisis",
+      "totalRevenue": "Ingresos Totales",
+      "totalCustomers": "Clientes Totales",
+      "avgOrderValue": "Valor Promedio de Pedido",
+      "conversionRate": "Tasa de Conversión",
+      "runAnalysis": "Ejecutar Nuevo Análisis",
+      "viewReports": "Ver Reportes"
+    },
+    "leads": {
+      "title": "Generación de Leads",
+      "totalLeads": "Leads Totales",
+      "highPriority": "Alta Prioridad",
+      "revenueOpportunity": "Oportunidad de Ingresos",
+      "conversionRate": "Tasa de Conversión",
+      "generateLeads": "Generar Nuevos Leads",
+      "viewLeads": "Ver Todos los Leads"
+    },
+    "quickActions": {
+      "title": "Acciones Rápidas",
+      "uploadData": "Subir Datos",
+      "runAnalytics": "Ejecutar Análisis",
+      "generateLeads": "Generar Leads",
+      "exportResults": "Exportar Resultados",
+      "viewReports": "Ver Reportes",
+      "manageTeam": "Gestionar Equipo"
+    },
+    "recentActivity": {
+      "title": "Actividad Reciente",
+      "noActivity": "Sin actividad reciente"
+    }
+  },
+  "analytics": {
+    "title": "Análisis de Negocio",
+    "subtitle": "8 Modelos de Análisis Principales con Insights Centrados en Contactos",
+    "uploadData": "Subir Datos",
+    "selectAnalysis": "Seleccionar Tipo de Análisis",
+    "runAnalysis": "Ejecutar Análisis",
+    "viewResults": "Ver Resultados",
+    "modules": {
+      "salesForecasting": {
+        "title": "Pronóstico de Ventas",
+        "description": "Predice ventas futuras usando análisis de regresión lineal",
+        "dataRequired": "Datos de ventas con fechas y montos"
+      },
+      "customerAnalysis": {
+        "title": "Análisis de Clientes",
+        "description": "Segmenta clientes usando análisis RFM",
+        "dataRequired": "Nombres de clientes e historial de compras"
+      },
+      "cashFlow": {
+        "title": "Predicción de Flujo de Caja",
+        "description": "Pronostica el flujo de caja usando promedios móviles",
+        "dataRequired": "Datos de ingresos y gastos"
+      },
+      "paymentAnalysis": {
+        "title": "Análisis de Pagos",
+        "description": "Analiza patrones de pago e identifica cuentas vencidas",
+        "dataRequired": "Datos de facturas y pagos"
+      },
+      "productPerformance": {
+        "title": "Rendimiento de Productos",
+        "description": "Clasifica productos por ingresos y rentabilidad",
+        "dataRequired": "Datos de ventas de productos"
+      },
+      "seasonalTrends": {
+        "title": "Tendencias Estacionales",
+        "description": "Identifica patrones estacionales en tu negocio",
+        "dataRequired": "Datos de ventas a través de múltiples meses"
+      },
+      "customerRetention": {
+        "title": "Retención de Clientes",
+        "description": "Predice la pérdida de clientes e identifica clientes en riesgo",
+        "dataRequired": "Historial de compras de clientes"
+      },
+      "profitability": {
+        "title": "Análisis de Rentabilidad",
+        "description": "Calcula márgenes e identifica oportunidades de ganancia",
+        "dataRequired": "Datos de ingresos y costos"
+      }
+    }
+  },
+  "leads": {
+    "title": "Generación de Leads",
+    "subtitle": "5 Tipos de Leads Principales con Acciones Centradas en Contactos",
+    "generateLeads": "Generar Leads",
+    "exportLeads": "Exportar Leads",
+    "filterLeads": "Filtrar Leads",
+    "searchLeads": "Buscar Leads",
+    "allTypes": "Todos los Tipos",
+    "allUrgency": "Toda Urgencia",
+    "highPriority": "Alta Prioridad",
+    "mediumPriority": "Prioridad Media",
+    "lowPriority": "Baja Prioridad",
+    "callNow": "Llamar Ahora",
+    "sendEmail": "Enviar Correo",
+    "sendWhatsApp": "Enviar WhatsApp",
+    "revenueRange": "Rango de Ingresos",
+    "urgency": "Urgencia",
+    "generatedAt": "Generado",
+    "noLeads": "No se encontraron leads",
+    "adjustFilters": "Intenta ajustar tus filtros o generar nuevos leads",
+    "modules": {
+      "overduePayment": {
+        "title": "Recuperación de Pagos Vencidos",
+        "description": "Identifica clientes con pagos vencidos y alto potencial de recuperación",
+        "revenueRange": "$5K - $25K potencial"
+      },
+      "customerReactivation": {
+        "title": "Reactivación de Clientes",
+        "description": "Encuentra clientes inactivos listos para campañas de reactivación",
+        "revenueRange": "$3K - $15K potencial"
+      },
+      "topCustomerUpsell": {
+        "title": "Venta Adicional a Mejores Clientes",
+        "description": "Identifica clientes de alto valor para venta adicional de productos premium",
+        "revenueRange": "$8K - $40K potencial"
+      },
+      "newCustomerProspects": {
+        "title": "Nuevos Prospectos de Clientes",
+        "description": "Califica y prioriza nuevos clientes potenciales basado en patrones",
+        "revenueRange": "$2K - $12K potencial"
+      },
+      "seasonalOpportunity": {
+        "title": "Oportunidades Estacionales",
+        "description": "Detecta patrones estacionales y próximas oportunidades de venta",
+        "revenueRange": "$1K - $8K potencial"
+      }
+    },
+    "actions": {
+      "title": "Acciones de Leads",
+      "summary": "Resumen de Leads",
+      "quickActions": "Acciones Rápidas",
+      "templates": "Plantillas de Mensajes",
+      "revenueTracker": "Oportunidad de Ingresos",
+      "performanceTips": "Consejos de Rendimiento",
+      "bulkEmail": "Enviar Correo Masivo",
+      "callList": "Generar Lista de Llamadas",
+      "whatsappCampaign": "Campaña de WhatsApp",
+      "exportCrm": "Exportar a CRM",
+      "totalPotential": "Potencial Total",
+      "expectedRevenue": "Ingresos Esperados",
+      "conversionRate": "Tasa de Conversión"
+    }
+  },
+  "currency": {
+    "usd": "$",
+    "eur": "€",
+    "gbp": "£",
+    "jpy": "¥",
+    "cny": "¥",
+    "inr": "₹",
+    "brl": "R$",
+    "cad": "C$",
+    "aud": "A$",
+    "chf": "CHF",
+    "krw": "₩",
+    "sgd": "S$",
+    "hkd": "HK$",
+    "nok": "kr",
+    "sek": "kr",
+    "dkk": "kr",
+    "pln": "zł",
+    "czk": "Kč",
+    "huf": "Ft",
+    "rub": "₽",
+    "try": "₺",
+    "zar": "R",
+    "mxn": "$",
+    "clp": "$",
+    "cop": "$",
+    "pen": "S/",
+    "ars": "$",
+    "uyu": "$",
+    "aed": "د.إ",
+    "sar": "ر.س",
+    "qar": "ر.ق",
+    "kwd": "د.ك",
+    "bhd": "د.ب",
+    "omr": "ر.ع",
+    "jod": "د.ا",
+    "egp": "ج.م",
+    "mad": "د.م",
+    "tnd": "د.ت"
+  },
+  "errors": {
+    "generic": "Algo salió mal. Por favor intenta de nuevo.",
+    "network": "Error de red. Por favor verifica tu conexión.",
+    "unauthorized": "No estás autorizado para realizar esta acción.",
+    "notFound": "El recurso solicitado no fue encontrado.",
+    "validation": "Por favor verifica tu entrada e intenta de nuevo.",
+    "fileUpload": "La carga del archivo falló. Por favor intenta de nuevo.",
+    "fileTooLarge": "El archivo es muy grande. El tamaño máximo es {maxSize}MB.",
+    "invalidFileType": "Tipo de archivo inválido. Por favor sube un archivo CSV.",
+    "loginFailed": "El inicio de sesión falló. Por favor verifica tus credenciales.",
+    "signupFailed": "El registro falló. Por favor intenta de nuevo.",
+    "passwordReset": "El restablecimiento de contraseña falló. Por favor intenta de nuevo."
+  },
+  "success": {
+    "dataSaved": "Datos guardados exitosamente",
+    "analysisComplete": "Análisis completado exitosamente",
+    "leadsGenerated": "Leads generados exitosamente",
+    "emailSent": "Correo enviado exitosamente",
+    "profileUpdated": "Perfil actualizado exitosamente",
+    "passwordReset": "Correo de restablecimiento de contraseña enviado",
+    "accountCreated": "Cuenta creada exitosamente"
+  }
+}

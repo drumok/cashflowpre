@@ -1,0 +1,248 @@
+{
+  "common": {
+    "loading": "로딩 중...",
+    "error": "오류",
+    "success": "성공",
+    "cancel": "취소",
+    "save": "저장",
+    "delete": "삭제",
+    "edit": "편집",
+    "view": "보기",
+    "back": "뒤로",
+    "next": "다음",
+    "previous": "이전",
+    "search": "검색",
+    "filter": "필터",
+    "export": "내보내기",
+    "import": "가져오기",
+    "download": "다운로드",
+    "upload": "업로드",
+    "close": "닫기",
+    "open": "열기",
+    "yes": "예",
+    "no": "아니오",
+    "ok": "확인"
+  },
+  "navigation": {
+    "dashboard": "대시보드",
+    "analytics": "분석",
+    "leads": "리드 생성",
+    "settings": "설정",
+    "profile": "프로필",
+    "billing": "결제",
+    "help": "도움말",
+    "logout": "로그아웃"
+  },
+  "auth": {
+    "signIn": "로그인",
+    "signUp": "회원가입",
+    "signOut": "로그아웃",
+    "email": "이메일 주소",
+    "password": "비밀번호",
+    "confirmPassword": "비밀번호 확인",
+    "fullName": "전체 이름",
+    "forgotPassword": "비밀번호를 잊으셨나요?",
+    "resetPassword": "비밀번호 재설정",
+    "rememberMe": "로그인 상태 유지",
+    "signInWithGoogle": "Google로 로그인",
+    "signUpWithGoogle": "Google로 회원가입",
+    "alreadyHaveAccount": "이미 계정이 있으신가요?",
+    "dontHaveAccount": "계정이 없으신가요?",
+    "createAccount": "계정 만들기",
+    "welcomeBack": "다시 오신 것을 환영합니다",
+    "signInToAccount": "SMB Analytics 계정에 로그인하세요",
+    "startJourney": "SMB Analytics와 함께 시작하세요",
+    "acceptTerms": "서비스 약관 및 개인정보 보호정책에 동의합니다",
+    "checkEmail": "이메일을 확인하세요",
+    "resetLinkSent": "재설정 링크를 이메일로 보냈습니다",
+    "backToSignIn": "로그인으로 돌아가기"
+  },
+  "landing": {
+    "hero": {
+      "title": "오늘 비즈니스 데이터를 수익으로 전환하세요",
+      "subtitle": "기본 비즈니스 데이터를 연락처 중심 액션으로 즉시 수익 기회로 전환하는 글로벌 중소기업 분석 및 리드 생성 플랫폼입니다.",
+      "cta": "무료 분석 시작",
+      "watchDemo": "데모 보기",
+      "trustedBy": "전 세계 10,000개 이상의 중소기업이 신뢰합니다"
+    },
+    "features": {
+      "title": "데이터를 수익으로 전환",
+      "subtitle": "8개 핵심 분석 + 5개 리드 생성 유형",
+      "analytics": {
+        "title": "비즈니스 분석",
+        "subtitle": "8개 핵심 모델",
+        "salesForecasting": "매출 예측",
+        "customerAnalysis": "고객 분석",
+        "cashFlow": "현금 흐름 예측",
+        "paymentAnalysis": "결제 분석",
+        "productPerformance": "제품 성과",
+        "seasonalTrends": "계절적 트렌드",
+        "customerRetention": "고객 유지",
+        "profitability": "수익성 분석"
+      },
+      "leads": {
+        "title": "리드 생성",
+        "subtitle": "5개 핵심 유형",
+        "overduePayment": "연체 결제 회수",
+        "customerReactivation": "고객 재활성화",
+        "topCustomerUpsell": "우수 고객 업셀",
+        "newCustomerProspects": "신규 고객 전망",
+        "seasonalOpportunity": "계절적 기회"
+      }
+    },
+    "pricing": {
+      "title": "간단하고 투명한 가격",
+      "subtitle": "비즈니스 요구에 맞는 플랜을 선택하세요",
+      "monthly": "월간",
+      "yearly": "연간",
+      "save": "20% 절약",
+      "free": {
+        "name": "무료",
+        "price": "₩0",
+        "period": "/월",
+        "description": "시작하기에 완벽",
+        "features": [
+          "5MB 데이터 업로드",
+          "월 5회 분석",
+          "사용자 1명",
+          "기본 분석",
+          "이메일 지원"
+        ],
+        "cta": "무료 시작"
+      },
+      "pro": {
+        "name": "프로",
+        "price": "₩130,000",
+        "period": "/월",
+        "description": "성장하는 비즈니스를 위한",
+        "features": [
+          "1GB 데이터 업로드",
+          "월 2000회 분석",
+          "관리자 1명 + 팀원 2명",
+          "50GB 클라우드 스토리지",
+          "모든 분석 및 리드 생성",
+          "WhatsApp 및 이메일 통합",
+          "우선 지원"
+        ],
+        "cta": "프로 체험 시작",
+        "popular": "가장 인기"
+      },
+      "proPlusName": "프로 플러스",
+      "proPlusPrice": "₩260,000",
+      "proPlusPeriod": "/월",
+      "proPlusDescription": "확립된 비즈니스를 위한",
+      "proPlusFeatures": [
+        "5GB 데이터 업로드",
+        "월 5000회 분석",
+        "관리자 1명 + 팀원 3명",
+        "100GB 클라우드 스토리지",
+        "모든 기능 + 고급 내보내기",
+        "맞춤 통합",
+        "우선 지원"
+      ],
+      "proPlusCta": "프로 플러스 체험 시작"
+    },
+    "demo": {
+      "title": "실제 작동 모습 보기",
+      "subtitle": "수익 성장을 위한 4가지 간단한 단계",
+      "step1": {
+        "title": "데이터 업로드",
+        "description": "매출, 고객 또는 송장이 포함된 CSV 파일"
+      },
+      "step2": {
+        "title": "분석 유형 선택",
+        "description": "8개 분석 모델 + 5개 리드 생성 유형"
+      },
+      "step3": {
+        "title": "실행 가능한 인사이트 획득",
+        "description": "연락처 이름, 수익 영향, 우선순위 수준"
+      },
+      "step4": {
+        "title": "즉시 행동",
+        "description": "전화, 이메일, WhatsApp으로 원클릭 커뮤니케이션"
+      },
+      "tryDemo": "지금 데모 체험"
+    }
+  },
+  "dashboard": {
+    "title": "비즈니스 인텔리전스 대시보드",
+    "subtitle": "비즈니스 데이터를 즉시 수익 기회로 전환",
+    "analytics": {
+      "title": "분석 개요",
+      "totalRevenue": "총 수익",
+      "totalCustomers": "총 고객 수",
+      "avgOrderValue": "평균 주문 가치",
+      "conversionRate": "전환율",
+      "runAnalysis": "새 분석 실행",
+      "viewReports": "보고서 보기"
+    },
+    "leads": {
+      "title": "리드 생성",
+      "totalLeads": "총 리드 수",
+      "highPriority": "높은 우선순위",
+      "revenueOpportunity": "수익 기회",
+      "conversionRate": "전환율",
+      "generateLeads": "새 리드 생성",
+      "viewLeads": "모든 리드 보기"
+    },
+    "quickActions": {
+      "title": "빠른 작업",
+      "uploadData": "데이터 업로드",
+      "runAnalytics": "분석 실행",
+      "generateLeads": "리드 생성",
+      "exportResults": "결과 내보내기",
+      "viewReports": "보고서 보기",
+      "manageTeam": "팀 관리"
+    },
+    "recentActivity": {
+      "title": "최근 활동",
+      "noActivity": "최근 활동이 없습니다"
+    }
+  },
+  "analytics": {
+    "title": "비즈니스 분석",
+    "subtitle": "연락처 중심 인사이트를 제공하는 8개 핵심 분석 모델",
+    "uploadData": "데이터 업로드",
+    "selectAnalysis": "분석 유형 선택",
+    "runAnalysis": "분석 실행",
+    "viewResults": "결과 보기"
+  },
+  "leads": {
+    "title": "리드 생성",
+    "subtitle": "연락처 중심 액션을 제공하는 5개 핵심 리드 유형",
+    "generateLeads": "리드 생성",
+    "exportLeads": "리드 내보내기",
+    "filterLeads": "리드 필터",
+    "searchLeads": "리드 검색",
+    "allTypes": "모든 유형",
+    "allUrgency": "모든 긴급도",
+    "highPriority": "높은 우선순위",
+    "mediumPriority": "중간 우선순위",
+    "lowPriority": "낮은 우선순위",
+    "callNow": "지금 전화",
+    "sendEmail": "이메일 보내기",
+    "sendWhatsApp": "WhatsApp 보내기"
+  },
+  "errors": {
+    "generic": "문제가 발생했습니다. 다시 시도해 주세요.",
+    "network": "네트워크 오류입니다. 연결을 확인해 주세요.",
+    "unauthorized": "이 작업을 수행할 권한이 없습니다.",
+    "notFound": "요청한 리소스를 찾을 수 없습니다.",
+    "validation": "입력을 확인하고 다시 시도해 주세요.",
+    "fileUpload": "파일 업로드에 실패했습니다. 다시 시도해 주세요.",
+    "fileTooLarge": "파일이 너무 큽니다. 최대 크기는 {maxSize}MB입니다.",
+    "invalidFileType": "잘못된 파일 형식입니다. CSV 파일을 업로드해 주세요.",
+    "loginFailed": "로그인에 실패했습니다. 자격 증명을 확인해 주세요.",
+    "signupFailed": "회원가입에 실패했습니다. 다시 시도해 주세요.",
+    "passwordReset": "비밀번호 재설정에 실패했습니다. 다시 시도해 주세요."
+  },
+  "success": {
+    "dataSaved": "데이터가 성공적으로 저장되었습니다",
+    "analysisComplete": "분석이 성공적으로 완료되었습니다",
+    "leadsGenerated": "리드가 성공적으로 생성되었습니다",
+    "emailSent": "이메일이 성공적으로 전송되었습니다",
+    "profileUpdated": "프로필이 성공적으로 업데이트되었습니다",
+    "passwordReset": "비밀번호 재설정 이메일이 전송되었습니다",
+    "accountCreated": "계정이 성공적으로 생성되었습니다"
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "filter": "Filter",
+    "export": "Export",
+    "import": "Import",
+    "download": "Download",
+    "upload": "Upload",
+    "close": "Close",
+    "open": "Open",
+    "yes": "Yes",
+    "no": "No",
+    "ok": "OK"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "analytics": "Analytics",
+    "leads": "Lead Generation",
+    "settings": "Settings",
+    "profile": "Profile",
+    "billing": "Billing",
+    "help": "Help",
+    "logout": "Sign Out"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "email": "Email Address",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "forgotPassword": "Forgot Password?",
+    "resetPassword": "Reset Password",
+    "rememberMe": "Remember me",
+    "signInWithGoogle": "Sign in with Google",
+    "signUpWithGoogle": "Sign up with Google",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?",
+    "createAccount": "Create Account",
+    "welcomeBack": "Welcome Back",
+    "signInToAccount": "Sign in to your SMB Analytics account",
+    "startJourney": "Start your SMB Analytics journey",
+    "acceptTerms": "I agree to the Terms of Service and Privacy Policy",
+    "checkEmail": "Check Your Email",
+    "resetLinkSent": "We've sent a password reset link to your email",
+    "backToSignIn": "Back to Sign In"
+  },
+  "landing": {
+    "hero": {
+      "title": "Turn Your Business Data Into Revenue Today",
+      "subtitle": "Global SMB Analytics & Lead Generation Platform that converts basic business data into immediate revenue opportunities with contact-centric actions.",
+      "cta": "Start Free Analysis",
+      "watchDemo": "Watch Demo",
+      "trustedBy": "Trusted by 10,000+ SMBs worldwide"
+    },
+    "features": {
+      "title": "Transform Data Into Revenue",
+      "subtitle": "8 Core Analytics + 5 Lead Generation Types",
+      "analytics": {
+        "title": "Business Analytics",
+        "subtitle": "8 Core Models",
+        "salesForecasting": "Sales Forecasting",
+        "customerAnalysis": "Customer Analysis", 
+        "cashFlow": "Cash Flow Prediction",
+        "paymentAnalysis": "Payment Analysis",
+        "productPerformance": "Product Performance",
+        "seasonalTrends": "Seasonal Trends",
+        "customerRetention": "Customer Retention",
+        "profitability": "Profitability Analysis"
+      },
+      "leads": {
+        "title": "Lead Generation",
+        "subtitle": "5 Core Types",
+        "overduePayment": "Overdue Payment Recovery",
+        "customerReactivation": "Customer Reactivation",
+        "topCustomerUpsell": "Top Customer Upsell",
+        "newCustomerProspects": "New Customer Prospects",
+        "seasonalOpportunity": "Seasonal Opportunities"
+      }
+    },
+    "pricing": {
+      "title": "Simple, Transparent Pricing",
+      "subtitle": "Choose the plan that fits your business needs",
+      "monthly": "Monthly",
+      "yearly": "Yearly",
+      "save": "Save 20%",
+      "free": {
+        "name": "Free",
+        "price": "$0",
+        "period": "/month",
+        "description": "Perfect for getting started",
+        "features": [
+          "5MB data upload",
+          "5 analysis runs per month",
+          "1 user",
+          "Basic analytics",
+          "Email support"
+        ],
+        "cta": "Start Free"
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "$99",
+        "period": "/month",
+        "description": "For growing businesses",
+        "features": [
+          "1GB data upload",
+          "2000 analysis runs per month",
+          "1 admin + 2 team members",
+          "50GB cloud storage",
+          "All analytics & lead generation",
+          "WhatsApp & email integration",
+          "Priority support"
+        ],
+        "cta": "Start Pro Trial",
+        "popular": "Most Popular"
+      },
+      "proPlusName": "Pro Plus",
+      "proPlusPrice": "$199",
+      "proPlusPeriod": "/month",
+      "proPlusDescription": "For established businesses",
+      "proPlusFeatures": [
+        "5GB data upload",
+        "5000 analysis runs per month", 
+        "1 admin + 3 team members",
+        "100GB cloud storage",
+        "All features + advanced export",
+        "Custom integrations",
+        "Priority support"
+      ],
+      "proPlusCta": "Start Pro Plus Trial"
+    },
+    "demo": {
+      "title": "See It In Action",
+      "subtitle": "4 Simple Steps to Revenue Growth",
+      "step1": {
+        "title": "Upload Your Data",
+        "description": "CSV files with sales, customers, or invoices"
+      },
+      "step2": {
+        "title": "Choose Analysis Type", 
+        "description": "8 analytics models + 5 lead generation types"
+      },
+      "step3": {
+        "title": "Get Actionable Insights",
+        "description": "Contact names, revenue impact, priority levels"
+      },
+      "step4": {
+        "title": "Take Immediate Action",
+        "description": "One-click phone, email, WhatsApp communication"
+      },
+      "tryDemo": "Try Demo Now"
+    }
+  },
+  "dashboard": {
+    "title": "Business Intelligence Dashboard",
+    "subtitle": "Transform your business data into immediate revenue opportunities",
+    "analytics": {
+      "title": "Analytics Overview",
+      "totalRevenue": "Total Revenue",
+      "totalCustomers": "Total Customers", 
+      "avgOrderValue": "Avg Order Value",
+      "conversionRate": "Conversion Rate",
+      "runAnalysis": "Run New Analysis",
+      "viewReports": "View Reports"
+    },
+    "leads": {
+      "title": "Lead Generation",
+      "totalLeads": "Total Leads",
+      "highPriority": "High Priority",
+      "revenueOpportunity": "Revenue Opportunity",
+      "conversionRate": "Conversion Rate",
+      "generateLeads": "Generate New Leads",
+      "viewLeads": "View All Leads"
+    },
+    "quickActions": {
+      "title": "Quick Actions",
+      "uploadData": "Upload Data",
+      "runAnalytics": "Run Analytics",
+      "generateLeads": "Generate Leads",
+      "exportResults": "Export Results",
+      "viewReports": "View Reports",
+      "manageTeam": "Manage Team"
+    },
+    "recentActivity": {
+      "title": "Recent Activity",
+      "noActivity": "No recent activity"
+    }
+  },
+  "analytics": {
+    "title": "Business Analytics",
+    "subtitle": "8 Core Analytics Models with Contact-Centric Insights",
+    "uploadData": "Upload Data",
+    "selectAnalysis": "Select Analysis Type",
+    "runAnalysis": "Run Analysis",
+    "viewResults": "View Results",
+    "modules": {
+      "salesForecasting": {
+        "title": "Sales Forecasting",
+        "description": "Predict future sales using linear regression analysis",
+        "dataRequired": "Sales data with dates and amounts"
+      },
+      "customerAnalysis": {
+        "title": "Customer Analysis", 
+        "description": "Segment customers using RFM analysis",
+        "dataRequired": "Customer names and purchase history"
+      },
+      "cashFlow": {
+        "title": "Cash Flow Prediction",
+        "description": "Forecast cash flow using moving averages",
+        "dataRequired": "Income and expense data"
+      },
+      "paymentAnalysis": {
+        "title": "Payment Analysis",
+        "description": "Analyze payment patterns and identify overdue accounts",
+        "dataRequired": "Invoice and payment data"
+      },
+      "productPerformance": {
+        "title": "Product Performance",
+        "description": "Rank products by revenue and profitability",
+        "dataRequired": "Product sales data"
+      },
+      "seasonalTrends": {
+        "title": "Seasonal Trends",
+        "description": "Identify seasonal patterns in your business",
+        "dataRequired": "Sales data across multiple months"
+      },
+      "customerRetention": {
+        "title": "Customer Retention",
+        "description": "Predict customer churn and identify at-risk customers",
+        "dataRequired": "Customer purchase history"
+      },
+      "profitability": {
+        "title": "Profitability Analysis",
+        "description": "Calculate margins and identify profit opportunities",
+        "dataRequired": "Revenue and cost data"
+      }
+    }
+  },
+  "leads": {
+    "title": "Lead Generation",
+    "subtitle": "5 Core Lead Types with Contact-Centric Actions",
+    "generateLeads": "Generate Leads",
+    "exportLeads": "Export Leads",
+    "filterLeads": "Filter Leads",
+    "searchLeads": "Search Leads",
+    "allTypes": "All Types",
+    "allUrgency": "All Urgency",
+    "highPriority": "High Priority",
+    "mediumPriority": "Medium Priority", 
+    "lowPriority": "Low Priority",
+    "callNow": "Call Now",
+    "sendEmail": "Send Email",
+    "sendWhatsApp": "Send WhatsApp",
+    "revenueRange": "Revenue Range",
+    "urgency": "Urgency",
+    "generatedAt": "Generated",
+    "noLeads": "No leads found",
+    "adjustFilters": "Try adjusting your filters or generate new leads",
+    "modules": {
+      "overduePayment": {
+        "title": "Overdue Payment Recovery",
+        "description": "Identify customers with overdue payments and high recovery potential",
+        "revenueRange": "$5K - $25K potential"
+      },
+      "customerReactivation": {
+        "title": "Customer Reactivation", 
+        "description": "Find inactive customers ready for re-engagement campaigns",
+        "revenueRange": "$3K - $15K potential"
+      },
+      "topCustomerUpsell": {
+        "title": "Top Customer Upsell",
+        "description": "Identify high-value customers for premium product upselling",
+        "revenueRange": "$8K - $40K potential"
+      },
+      "newCustomerProspects": {
+        "title": "New Customer Prospects",
+        "description": "Score and prioritize potential new customers based on patterns",
+        "revenueRange": "$2K - $12K potential"
+      },
+      "seasonalOpportunity": {
+        "title": "Seasonal Opportunities",
+        "description": "Detect seasonal patterns and upcoming sales opportunities", 
+        "revenueRange": "$1K - $8K potential"
+      }
+    },
+    "actions": {
+      "title": "Lead Actions",
+      "summary": "Lead Summary",
+      "quickActions": "Quick Actions",
+      "templates": "Message Templates",
+      "revenueTracker": "Revenue Opportunity",
+      "performanceTips": "Performance Tips",
+      "bulkEmail": "Send Bulk Email",
+      "callList": "Generate Call List",
+      "whatsappCampaign": "WhatsApp Campaign",
+      "exportCrm": "Export to CRM",
+      "totalPotential": "Total Potential",
+      "expectedRevenue": "Expected Revenue",
+      "conversionRate": "Conversion Rate"
+    }
+  },
+  "currency": {
+    "usd": "$",
+    "eur": "€",
+    "gbp": "£",
+    "jpy": "¥",
+    "cny": "¥",
+    "inr": "₹",
+    "brl": "R$",
+    "cad": "C$",
+    "aud": "A$",
+    "chf": "CHF",
+    "krw": "₩",
+    "sgd": "S$",
+    "hkd": "HK$",
+    "nok": "kr",
+    "sek": "kr",
+    "dkk": "kr",
+    "pln": "zł",
+    "czk": "Kč",
+    "huf": "Ft",
+    "rub": "₽",
+    "try": "₺",
+    "zar": "R",
+    "mxn": "$",
+    "clp": "$",
+    "cop": "$",
+    "pen": "S/",
+    "ars": "$",
+    "uyu": "$",
+    "aed": "د.إ",
+    "sar": "ر.س",
+    "qar": "ر.ق",
+    "kwd": "د.ك",
+    "bhd": "د.ب",
+    "omr": "ر.ع",
+    "jod": "د.ا",
+    "egp": "ج.م",
+    "mad": "د.م",
+    "tnd": "د.ت"
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again.",
+    "network": "Network error. Please check your connection.",
+    "unauthorized": "You are not authorized to perform this action.",
+    "notFound": "The requested resource was not found.",
+    "validation": "Please check your input and try again.",
+    "fileUpload": "File upload failed. Please try again.",
+    "fileTooLarge": "File is too large. Maximum size is {maxSize}MB.",
+    "invalidFileType": "Invalid file type. Please upload a CSV file.",
+    "loginFailed": "Login failed. Please check your credentials.",
+    "signupFailed": "Sign up failed. Please try again.",
+    "passwordReset": "Password reset failed. Please try again."
+  },
+  "success": {
+    "dataSaved": "Data saved successfully",
+    "analysisComplete": "Analysis completed successfully",
+    "leadsGenerated": "Leads generated successfully",
+    "emailSent": "Email sent successfully",
+    "profileUpdated": "Profile updated successfully",
+    "passwordReset": "Password reset email sent",
+    "accountCreated": "Account created successfully"
+  }
+}

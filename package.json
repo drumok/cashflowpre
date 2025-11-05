@@ -1,0 +1,49 @@
+{
+  "name": "smb-analytics-platform",
+  "version": "1.0.0",
+  "description": "Global SMB Business Analytics & Lead Generation SaaS Platform",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit",
+    "deploy": "gcloud builds submit --config cloudbuild.yaml",
+    "deploy:staging": "gcloud builds submit --config cloudbuild.yaml --substitutions=_ENV=staging",
+    "deploy:production": "gcloud builds submit --config cloudbuild.yaml --substitutions=_ENV=production"
+  },
+  "dependencies": {
+    "@google-cloud/firestore": "^7.0.0",
+    "@google-cloud/storage": "^7.0.0",
+    "@types/react-dom": "^18.0.0",
+    "autoprefixer": "^10.4.0",
+    "braintree": "^3.0.0",
+    "clsx": "^2.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.0",
+    "firebase": "^10.0.0",
+    "firebase-admin": "^11.0.0",
+    "framer-motion": "^10.0.0",
+    "helmet": "^7.0.0",
+    "lucide-react": "^0.290.0",
+    "next": "^14.0.0",
+    "next-i18next": "^15.0.0",
+    "postcss": "^8.4.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-i18next": "^13.0.0",
+    "recharts": "^2.8.0",
+    "tailwind-merge": "^2.0.0",
+    "tailwindcss": "^3.3.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.0",
+    "@tailwindcss/typography": "^0.5.0",
+    "@types/node": "^20.19.24",
+    "@types/react": "^18.3.26",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^14.0.0",
+    "typescript": "^5.9.3"
+  }
+}

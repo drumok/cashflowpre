@@ -1,0 +1,377 @@
+{
+  "common": {
+    "loading": "Carregando...",
+    "error": "Erro",
+    "success": "Sucesso",
+    "cancel": "Cancelar",
+    "save": "Salvar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "view": "Ver",
+    "back": "Voltar",
+    "next": "Próximo",
+    "previous": "Anterior",
+    "search": "Pesquisar",
+    "filter": "Filtrar",
+    "export": "Exportar",
+    "import": "Importar",
+    "download": "Baixar",
+    "upload": "Enviar",
+    "close": "Fechar",
+    "open": "Abrir",
+    "yes": "Sim",
+    "no": "Não",
+    "ok": "OK"
+  },
+  "navigation": {
+    "dashboard": "Painel",
+    "analytics": "Análises",
+    "leads": "Geração de Leads",
+    "settings": "Configurações",
+    "profile": "Perfil",
+    "billing": "Faturamento",
+    "help": "Ajuda",
+    "logout": "Sair"
+  },
+  "auth": {
+    "signIn": "Entrar",
+    "signUp": "Cadastrar",
+    "signOut": "Sair",
+    "email": "Endereço de Email",
+    "password": "Senha",
+    "confirmPassword": "Confirmar Senha",
+    "fullName": "Nome Completo",
+    "forgotPassword": "Esqueceu a senha?",
+    "resetPassword": "Redefinir Senha",
+    "rememberMe": "Lembrar de mim",
+    "signInWithGoogle": "Entrar com Google",
+    "signUpWithGoogle": "Cadastrar com Google",
+    "alreadyHaveAccount": "Já tem uma conta?",
+    "dontHaveAccount": "Não tem uma conta?",
+    "createAccount": "Criar Conta",
+    "welcomeBack": "Bem-vindo de Volta",
+    "signInToAccount": "Entre na sua conta SMB Analytics",
+    "startJourney": "Comece sua jornada com SMB Analytics",
+    "acceptTerms": "Concordo com os Termos de Serviço e Política de Privacidade",
+    "checkEmail": "Verifique seu Email",
+    "resetLinkSent": "Enviamos um link de redefinição para seu email",
+    "backToSignIn": "Voltar ao Login"
+  },
+  "landing": {
+    "hero": {
+      "title": "Transforme os Dados do seu Negócio em Receita Hoje",
+      "subtitle": "Plataforma Global de Análise e Geração de Leads para PMEs que converte dados básicos de negócio em oportunidades imediatas de receita com ações centradas em contatos.",
+      "cta": "Começar Análise Grátis",
+      "watchDemo": "Ver Demo",
+      "trustedBy": "Confiado por mais de 10.000 PMEs no mundo todo"
+    },
+    "features": {
+      "title": "Transforme Dados em Receita",
+      "subtitle": "8 Análises Principais + 5 Tipos de Geração de Leads",
+      "analytics": {
+        "title": "Análise de Negócios",
+        "subtitle": "8 Modelos Principais",
+        "salesForecasting": "Previsão de Vendas",
+        "customerAnalysis": "Análise de Clientes",
+        "cashFlow": "Previsão de Fluxo de Caixa",
+        "paymentAnalysis": "Análise de Pagamentos",
+        "productPerformance": "Performance de Produtos",
+        "seasonalTrends": "Tendências Sazonais",
+        "customerRetention": "Retenção de Clientes",
+        "profitability": "Análise de Rentabilidade"
+      },
+      "leads": {
+        "title": "Geração de Leads",
+        "subtitle": "5 Tipos Principais",
+        "overduePayment": "Recuperação de Pagamentos Atrasados",
+        "customerReactivation": "Reativação de Clientes",
+        "topCustomerUpsell": "Upsell para Melhores Clientes",
+        "newCustomerProspects": "Novos Prospects de Clientes",
+        "seasonalOpportunity": "Oportunidades Sazonais"
+      }
+    },
+    "pricing": {
+      "title": "Preços Simples e Transparentes",
+      "subtitle": "Escolha o plano que se adapta às necessidades do seu negócio",
+      "monthly": "Mensal",
+      "yearly": "Anual",
+      "save": "Economize 20%",
+      "free": {
+        "name": "Grátis",
+        "price": "R$0",
+        "period": "/mês",
+        "description": "Perfeito para começar",
+        "features": [
+          "5MB de upload de dados",
+          "5 análises por mês",
+          "1 usuário",
+          "Análises básicas",
+          "Suporte por email"
+        ],
+        "cta": "Começar Grátis"
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "R$499",
+        "period": "/mês",
+        "description": "Para negócios em crescimento",
+        "features": [
+          "1GB de upload de dados",
+          "2000 análises por mês",
+          "1 admin + 2 membros da equipe",
+          "50GB de armazenamento na nuvem",
+          "Todas as análises e geração de leads",
+          "Integração WhatsApp e email",
+          "Suporte prioritário"
+        ],
+        "cta": "Começar Teste Pro",
+        "popular": "Mais Popular"
+      },
+      "proPlusName": "Pro Plus",
+      "proPlusPrice": "R$999",
+      "proPlusPeriod": "/mês",
+      "proPlusDescription": "Para negócios estabelecidos",
+      "proPlusFeatures": [
+        "5GB de upload de dados",
+        "5000 análises por mês",
+        "1 admin + 3 membros da equipe",
+        "100GB de armazenamento na nuvem",
+        "Todas as funcionalidades + exportação avançada",
+        "Integrações personalizadas",
+        "Suporte prioritário"
+      ],
+      "proPlusCta": "Começar Teste Pro Plus"
+    },
+    "demo": {
+      "title": "Veja em Ação",
+      "subtitle": "4 Passos Simples para Crescimento de Receita",
+      "step1": {
+        "title": "Envie seus Dados",
+        "description": "Arquivos CSV com vendas, clientes ou faturas"
+      },
+      "step2": {
+        "title": "Escolha o Tipo de Análise",
+        "description": "8 modelos de análise + 5 tipos de geração de leads"
+      },
+      "step3": {
+        "title": "Obtenha Insights Acionáveis",
+        "description": "Nomes de contatos, impacto na receita, níveis de prioridade"
+      },
+      "step4": {
+        "title": "Tome Ação Imediata",
+        "description": "Comunicação com um clique por telefone, email, WhatsApp"
+      },
+      "tryDemo": "Testar Demo Agora"
+    }
+  },
+  "dashboard": {
+    "title": "Painel de Inteligência de Negócios",
+    "subtitle": "Transforme os dados do seu negócio em oportunidades imediatas de receita",
+    "analytics": {
+      "title": "Resumo de Análises",
+      "totalRevenue": "Receita Total",
+      "totalCustomers": "Clientes Totais",
+      "avgOrderValue": "Valor Médio do Pedido",
+      "conversionRate": "Taxa de Conversão",
+      "runAnalysis": "Executar Nova Análise",
+      "viewReports": "Ver Relatórios"
+    },
+    "leads": {
+      "title": "Geração de Leads",
+      "totalLeads": "Leads Totais",
+      "highPriority": "Alta Prioridade",
+      "revenueOpportunity": "Oportunidade de Receita",
+      "conversionRate": "Taxa de Conversão",
+      "generateLeads": "Gerar Novos Leads",
+      "viewLeads": "Ver Todos os Leads"
+    },
+    "quickActions": {
+      "title": "Ações Rápidas",
+      "uploadData": "Enviar Dados",
+      "runAnalytics": "Executar Análises",
+      "generateLeads": "Gerar Leads",
+      "exportResults": "Exportar Resultados",
+      "viewReports": "Ver Relatórios",
+      "manageTeam": "Gerenciar Equipe"
+    },
+    "recentActivity": {
+      "title": "Atividade Recente",
+      "noActivity": "Nenhuma atividade recente"
+    }
+  },
+  "analytics": {
+    "title": "Análise de Negócios",
+    "subtitle": "8 Modelos de Análise Principais com Insights Centrados em Contatos",
+    "uploadData": "Enviar Dados",
+    "selectAnalysis": "Selecionar Tipo de Análise",
+    "runAnalysis": "Executar Análise",
+    "viewResults": "Ver Resultados",
+    "modules": {
+      "salesForecasting": {
+        "title": "Previsão de Vendas",
+        "description": "Prevê vendas futuras usando análise de regressão linear",
+        "dataRequired": "Dados de vendas com datas e valores"
+      },
+      "customerAnalysis": {
+        "title": "Análise de Clientes",
+        "description": "Segmenta clientes usando análise RFM",
+        "dataRequired": "Nomes de clientes e histórico de compras"
+      },
+      "cashFlow": {
+        "title": "Previsão de Fluxo de Caixa",
+        "description": "Prevê o fluxo de caixa usando médias móveis",
+        "dataRequired": "Dados de receitas e despesas"
+      },
+      "paymentAnalysis": {
+        "title": "Análise de Pagamentos",
+        "description": "Analisa padrões de pagamento e identifica contas em atraso",
+        "dataRequired": "Dados de faturas e pagamentos"
+      },
+      "productPerformance": {
+        "title": "Performance de Produtos",
+        "description": "Classifica produtos por receita e rentabilidade",
+        "dataRequired": "Dados de vendas de produtos"
+      },
+      "seasonalTrends": {
+        "title": "Tendências Sazonais",
+        "description": "Identifica padrões sazonais no seu negócio",
+        "dataRequired": "Dados de vendas ao longo de múltiplos meses"
+      },
+      "customerRetention": {
+        "title": "Retenção de Clientes",
+        "description": "Prevê perda de clientes e identifica clientes em risco",
+        "dataRequired": "Histórico de compras de clientes"
+      },
+      "profitability": {
+        "title": "Análise de Rentabilidade",
+        "description": "Calcula margens e identifica oportunidades de lucro",
+        "dataRequired": "Dados de receitas e custos"
+      }
+    }
+  },
+  "leads": {
+    "title": "Geração de Leads",
+    "subtitle": "5 Tipos de Leads Principais com Ações Centradas em Contatos",
+    "generateLeads": "Gerar Leads",
+    "exportLeads": "Exportar Leads",
+    "filterLeads": "Filtrar Leads",
+    "searchLeads": "Pesquisar Leads",
+    "allTypes": "Todos os Tipos",
+    "allUrgency": "Toda Urgência",
+    "highPriority": "Alta Prioridade",
+    "mediumPriority": "Prioridade Média",
+    "lowPriority": "Baixa Prioridade",
+    "callNow": "Ligar Agora",
+    "sendEmail": "Enviar Email",
+    "sendWhatsApp": "Enviar WhatsApp",
+    "revenueRange": "Faixa de Receita",
+    "urgency": "Urgência",
+    "generatedAt": "Gerado",
+    "noLeads": "Nenhum lead encontrado",
+    "adjustFilters": "Tente ajustar seus filtros ou gerar novos leads",
+    "modules": {
+      "overduePayment": {
+        "title": "Recuperação de Pagamentos Atrasados",
+        "description": "Identifica clientes com pagamentos atrasados e alto potencial de recuperação",
+        "revenueRange": "R$25K - R$125K potencial"
+      },
+      "customerReactivation": {
+        "title": "Reativação de Clientes",
+        "description": "Encontra clientes inativos prontos para campanhas de reativação",
+        "revenueRange": "R$15K - R$75K potencial"
+      },
+      "topCustomerUpsell": {
+        "title": "Upsell para Melhores Clientes",
+        "description": "Identifica clientes de alto valor para upsell de produtos premium",
+        "revenueRange": "R$40K - R$200K potencial"
+      },
+      "newCustomerProspects": {
+        "title": "Novos Prospects de Clientes",
+        "description": "Pontua e prioriza novos clientes potenciais baseado em padrões",
+        "revenueRange": "R$10K - R$60K potencial"
+      },
+      "seasonalOpportunity": {
+        "title": "Oportunidades Sazonais",
+        "description": "Detecta padrões sazonais e próximas oportunidades de venda",
+        "revenueRange": "R$5K - R$40K potencial"
+      }
+    },
+    "actions": {
+      "title": "Ações de Leads",
+      "summary": "Resumo de Leads",
+      "quickActions": "Ações Rápidas",
+      "templates": "Modelos de Mensagens",
+      "revenueTracker": "Oportunidade de Receita",
+      "performanceTips": "Dicas de Performance",
+      "bulkEmail": "Enviar Email em Massa",
+      "callList": "Gerar Lista de Chamadas",
+      "whatsappCampaign": "Campanha WhatsApp",
+      "exportCrm": "Exportar para CRM",
+      "totalPotential": "Potencial Total",
+      "expectedRevenue": "Receita Esperada",
+      "conversionRate": "Taxa de Conversão"
+    }
+  },
+  "currency": {
+    "usd": "$",
+    "eur": "€",
+    "gbp": "£",
+    "jpy": "¥",
+    "cny": "¥",
+    "inr": "₹",
+    "brl": "R$",
+    "cad": "C$",
+    "aud": "A$",
+    "chf": "CHF",
+    "krw": "₩",
+    "sgd": "S$",
+    "hkd": "HK$",
+    "nok": "kr",
+    "sek": "kr",
+    "dkk": "kr",
+    "pln": "zł",
+    "czk": "Kč",
+    "huf": "Ft",
+    "rub": "₽",
+    "try": "₺",
+    "zar": "R",
+    "mxn": "$",
+    "clp": "$",
+    "cop": "$",
+    "pen": "S/",
+    "ars": "$",
+    "uyu": "$",
+    "aed": "د.إ",
+    "sar": "ر.س",
+    "qar": "ر.ق",
+    "kwd": "د.ك",
+    "bhd": "د.ب",
+    "omr": "ر.ع",
+    "jod": "د.ا",
+    "egp": "ج.م",
+    "mad": "د.م",
+    "tnd": "د.ت"
+  },
+  "errors": {
+    "generic": "Algo deu errado. Por favor tente novamente.",
+    "network": "Erro de rede. Por favor verifique sua conexão.",
+    "unauthorized": "Você não está autorizado a realizar esta ação.",
+    "notFound": "O recurso solicitado não foi encontrado.",
+    "validation": "Por favor verifique sua entrada e tente novamente.",
+    "fileUpload": "O upload do arquivo falhou. Por favor tente novamente.",
+    "fileTooLarge": "O arquivo é muito grande. O tamanho máximo é {maxSize}MB.",
+    "invalidFileType": "Tipo de arquivo inválido. Por favor envie um arquivo CSV.",
+    "loginFailed": "O login falhou. Por favor verifique suas credenciais.",
+    "signupFailed": "O cadastro falhou. Por favor tente novamente.",
+    "passwordReset": "A redefinição de senha falhou. Por favor tente novamente."
+  },
+  "success": {
+    "dataSaved": "Dados salvos com sucesso",
+    "analysisComplete": "Análise concluída com sucesso",
+    "leadsGenerated": "Leads gerados com sucesso",
+    "emailSent": "Email enviado com sucesso",
+    "profileUpdated": "Perfil atualizado com sucesso",
+    "passwordReset": "Email de redefinição de senha enviado",
+    "accountCreated": "Conta criada com sucesso"
+  }
+}

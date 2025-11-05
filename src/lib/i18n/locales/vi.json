@@ -1,0 +1,248 @@
+{
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Lỗi",
+    "success": "Thành công",
+    "cancel": "Hủy",
+    "save": "Lưu",
+    "delete": "Xóa",
+    "edit": "Chỉnh sửa",
+    "view": "Xem",
+    "back": "Quay lại",
+    "next": "Tiếp theo",
+    "previous": "Trước đó",
+    "search": "Tìm kiếm",
+    "filter": "Lọc",
+    "export": "Xuất",
+    "import": "Nhập",
+    "download": "Tải xuống",
+    "upload": "Tải lên",
+    "close": "Đóng",
+    "open": "Mở",
+    "yes": "Có",
+    "no": "Không",
+    "ok": "OK"
+  },
+  "navigation": {
+    "dashboard": "Bảng điều khiển",
+    "analytics": "Phân tích",
+    "leads": "Tạo khách hàng tiềm năng",
+    "settings": "Cài đặt",
+    "profile": "Hồ sơ",
+    "billing": "Thanh toán",
+    "help": "Trợ giúp",
+    "logout": "Đăng xuất"
+  },
+  "auth": {
+    "signIn": "Đăng nhập",
+    "signUp": "Đăng ký",
+    "signOut": "Đăng xuất",
+    "email": "Địa chỉ email",
+    "password": "Mật khẩu",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "fullName": "Họ và tên",
+    "forgotPassword": "Quên mật khẩu?",
+    "resetPassword": "Đặt lại mật khẩu",
+    "rememberMe": "Ghi nhớ tôi",
+    "signInWithGoogle": "Đăng nhập bằng Google",
+    "signUpWithGoogle": "Đăng ký bằng Google",
+    "alreadyHaveAccount": "Đã có tài khoản?",
+    "dontHaveAccount": "Chưa có tài khoản?",
+    "createAccount": "Tạo tài khoản",
+    "welcomeBack": "Chào mừng trở lại",
+    "signInToAccount": "Đăng nhập vào tài khoản SMB Analytics của bạn",
+    "startJourney": "Bắt đầu hành trình của bạn với SMB Analytics",
+    "acceptTerms": "Tôi đồng ý với Điều khoản Dịch vụ và Chính sách Bảo mật",
+    "checkEmail": "Kiểm tra email của bạn",
+    "resetLinkSent": "Chúng tôi đã gửi liên kết đặt lại đến email của bạn",
+    "backToSignIn": "Quay lại đăng nhập"
+  },
+  "landing": {
+    "hero": {
+      "title": "Biến dữ liệu kinh doanh của bạn thành doanh thu ngay hôm nay",
+      "subtitle": "Nền tảng Phân tích và Tạo khách hàng tiềm năng cho SMB toàn cầu biến dữ liệu kinh doanh cơ bản thành cơ hội doanh thu tức thì với các hành động tập trung vào liên hệ.",
+      "cta": "Bắt đầu phân tích miễn phí",
+      "watchDemo": "Xem demo",
+      "trustedBy": "Được tin tưởng bởi hơn 10.000 SMB trên toàn thế giới"
+    },
+    "features": {
+      "title": "Biến dữ liệu thành doanh thu",
+      "subtitle": "8 phân tích cốt lõi + 5 loại tạo khách hàng tiềm năng",
+      "analytics": {
+        "title": "Phân tích kinh doanh",
+        "subtitle": "8 mô hình cốt lõi",
+        "salesForecasting": "Dự báo bán hàng",
+        "customerAnalysis": "Phân tích khách hàng",
+        "cashFlow": "Dự báo dòng tiền",
+        "paymentAnalysis": "Phân tích thanh toán",
+        "productPerformance": "Hiệu suất sản phẩm",
+        "seasonalTrends": "Xu hướng theo mùa",
+        "customerRetention": "Giữ chân khách hàng",
+        "profitability": "Phân tích lợi nhuận"
+      },
+      "leads": {
+        "title": "Tạo khách hàng tiềm năng",
+        "subtitle": "5 loại cốt lõi",
+        "overduePayment": "Thu hồi thanh toán quá hạn",
+        "customerReactivation": "Kích hoạt lại khách hàng",
+        "topCustomerUpsell": "Bán thêm cho khách hàng hàng đầu",
+        "newCustomerProspects": "Khách hàng tiềm năng mới",
+        "seasonalOpportunity": "Cơ hội theo mùa"
+      }
+    },
+    "pricing": {
+      "title": "Giá cả đơn giản, minh bạch",
+      "subtitle": "Chọn gói phù hợp với nhu cầu kinh doanh của bạn",
+      "monthly": "Hàng tháng",
+      "yearly": "Hàng năm",
+      "save": "Tiết kiệm 20%",
+      "free": {
+        "name": "Miễn phí",
+        "price": "0₫",
+        "period": "/tháng",
+        "description": "Hoàn hảo để bắt đầu",
+        "features": [
+          "Tải lên dữ liệu 5MB",
+          "5 phân tích mỗi tháng",
+          "1 người dùng",
+          "Phân tích cơ bản",
+          "Hỗ trợ email"
+        ],
+        "cta": "Bắt đầu miễn phí"
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "2.400.000₫",
+        "period": "/tháng",
+        "description": "Cho doanh nghiệp đang phát triển",
+        "features": [
+          "Tải lên dữ liệu 1GB",
+          "2000 phân tích mỗi tháng",
+          "1 quản trị viên + 2 thành viên nhóm",
+          "Lưu trữ đám mây 50GB",
+          "Tất cả phân tích và tạo khách hàng tiềm năng",
+          "Tích hợp WhatsApp và email",
+          "Hỗ trợ ưu tiên"
+        ],
+        "cta": "Bắt đầu dùng thử Pro",
+        "popular": "Phổ biến nhất"
+      },
+      "proPlusName": "Pro Plus",
+      "proPlusPrice": "4.800.000₫",
+      "proPlusPeriod": "/tháng",
+      "proPlusDescription": "Cho doanh nghiệp đã thành lập",
+      "proPlusFeatures": [
+        "Tải lên dữ liệu 5GB",
+        "5000 phân tích mỗi tháng",
+        "1 quản trị viên + 3 thành viên nhóm",
+        "Lưu trữ đám mây 100GB",
+        "Tất cả tính năng + xuất nâng cao",
+        "Tích hợp tùy chỉnh",
+        "Hỗ trợ ưu tiên"
+      ],
+      "proPlusCta": "Bắt đầu dùng thử Pro Plus"
+    },
+    "demo": {
+      "title": "Xem hoạt động thực tế",
+      "subtitle": "4 bước đơn giản để tăng trưởng doanh thu",
+      "step1": {
+        "title": "Tải lên dữ liệu của bạn",
+        "description": "Tệp CSV với doanh số, khách hàng hoặc hóa đơn"
+      },
+      "step2": {
+        "title": "Chọn loại phân tích",
+        "description": "8 mô hình phân tích + 5 loại tạo khách hàng tiềm năng"
+      },
+      "step3": {
+        "title": "Nhận thông tin chi tiết có thể hành động",
+        "description": "Tên liên hệ, tác động doanh thu, mức độ ưu tiên"
+      },
+      "step4": {
+        "title": "Hành động ngay lập tức",
+        "description": "Giao tiếp một cú nhấp qua điện thoại, email, WhatsApp"
+      },
+      "tryDemo": "Thử demo ngay"
+    }
+  },
+  "dashboard": {
+    "title": "Bảng điều khiển Business Intelligence",
+    "subtitle": "Biến dữ liệu kinh doanh của bạn thành cơ hội doanh thu tức thì",
+    "analytics": {
+      "title": "Tổng quan phân tích",
+      "totalRevenue": "Tổng doanh thu",
+      "totalCustomers": "Tổng khách hàng",
+      "avgOrderValue": "Giá trị đơn hàng trung bình",
+      "conversionRate": "Tỷ lệ chuyển đổi",
+      "runAnalysis": "Chạy phân tích mới",
+      "viewReports": "Xem báo cáo"
+    },
+    "leads": {
+      "title": "Tạo khách hàng tiềm năng",
+      "totalLeads": "Tổng khách hàng tiềm năng",
+      "highPriority": "Ưu tiên cao",
+      "revenueOpportunity": "Cơ hội doanh thu",
+      "conversionRate": "Tỷ lệ chuyển đổi",
+      "generateLeads": "Tạo khách hàng tiềm năng mới",
+      "viewLeads": "Xem tất cả khách hàng tiềm năng"
+    },
+    "quickActions": {
+      "title": "Hành động nhanh",
+      "uploadData": "Tải lên dữ liệu",
+      "runAnalytics": "Chạy phân tích",
+      "generateLeads": "Tạo khách hàng tiềm năng",
+      "exportResults": "Xuất kết quả",
+      "viewReports": "Xem báo cáo",
+      "manageTeam": "Quản lý nhóm"
+    },
+    "recentActivity": {
+      "title": "Hoạt động gần đây",
+      "noActivity": "Không có hoạt động gần đây"
+    }
+  },
+  "analytics": {
+    "title": "Phân tích kinh doanh",
+    "subtitle": "8 mô hình phân tích cốt lõi với thông tin chi tiết tập trung vào liên hệ",
+    "uploadData": "Tải lên dữ liệu",
+    "selectAnalysis": "Chọn loại phân tích",
+    "runAnalysis": "Chạy phân tích",
+    "viewResults": "Xem kết quả"
+  },
+  "leads": {
+    "title": "Tạo khách hàng tiềm năng",
+    "subtitle": "5 loại khách hàng tiềm năng cốt lõi với hành động tập trung vào liên hệ",
+    "generateLeads": "Tạo khách hàng tiềm năng",
+    "exportLeads": "Xuất khách hàng tiềm năng",
+    "filterLeads": "Lọc khách hàng tiềm năng",
+    "searchLeads": "Tìm kiếm khách hàng tiềm năng",
+    "allTypes": "Tất cả loại",
+    "allUrgency": "Tất cả mức độ khẩn cấp",
+    "highPriority": "Ưu tiên cao",
+    "mediumPriority": "Ưu tiên trung bình",
+    "lowPriority": "Ưu tiên thấp",
+    "callNow": "Gọi ngay",
+    "sendEmail": "Gửi email",
+    "sendWhatsApp": "Gửi WhatsApp"
+  },
+  "errors": {
+    "generic": "Đã xảy ra lỗi. Vui lòng thử lại.",
+    "network": "Lỗi mạng. Vui lòng kiểm tra kết nối của bạn.",
+    "unauthorized": "Bạn không được phép thực hiện hành động này.",
+    "notFound": "Không tìm thấy tài nguyên được yêu cầu.",
+    "validation": "Vui lòng kiểm tra đầu vào của bạn và thử lại.",
+    "fileUpload": "Tải lên tệp thất bại. Vui lòng thử lại.",
+    "fileTooLarge": "Tệp quá lớn. Kích thước tối đa là {maxSize}MB.",
+    "invalidFileType": "Loại tệp không hợp lệ. Vui lòng tải lên tệp CSV.",
+    "loginFailed": "Đăng nhập thất bại. Vui lòng kiểm tra thông tin đăng nhập của bạn.",
+    "signupFailed": "Đăng ký thất bại. Vui lòng thử lại.",
+    "passwordReset": "Đặt lại mật khẩu thất bại. Vui lòng thử lại."
+  },
+  "success": {
+    "dataSaved": "Dữ liệu đã được lưu thành công",
+    "analysisComplete": "Phân tích đã hoàn thành thành công",
+    "leadsGenerated": "Khách hàng tiềm năng đã được tạo thành công",
+    "emailSent": "Email đã được gửi thành công",
+    "profileUpdated": "Hồ sơ đã được cập nhật thành công",
+    "passwordReset": "Email đặt lại mật khẩu đã được gửi",
+    "accountCreated": "Tài khoản đã được tạo thành công"
+  }
+}

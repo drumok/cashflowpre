@@ -1,0 +1,248 @@
+{
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "success": "Başarılı",
+    "cancel": "İptal",
+    "save": "Kaydet",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "view": "Görüntüle",
+    "back": "Geri",
+    "next": "İleri",
+    "previous": "Önceki",
+    "search": "Ara",
+    "filter": "Filtrele",
+    "export": "Dışa Aktar",
+    "import": "İçe Aktar",
+    "download": "İndir",
+    "upload": "Yükle",
+    "close": "Kapat",
+    "open": "Aç",
+    "yes": "Evet",
+    "no": "Hayır",
+    "ok": "Tamam"
+  },
+  "navigation": {
+    "dashboard": "Kontrol Paneli",
+    "analytics": "Analitik",
+    "leads": "Müşteri Adayı Oluşturma",
+    "settings": "Ayarlar",
+    "profile": "Profil",
+    "billing": "Faturalandırma",
+    "help": "Yardım",
+    "logout": "Çıkış Yap"
+  },
+  "auth": {
+    "signIn": "Giriş Yap",
+    "signUp": "Kayıt Ol",
+    "signOut": "Çıkış Yap",
+    "email": "E-posta Adresi",
+    "password": "Şifre",
+    "confirmPassword": "Şifreyi Onayla",
+    "fullName": "Ad Soyad",
+    "forgotPassword": "Şifrenizi mi unuttunuz?",
+    "resetPassword": "Şifreyi Sıfırla",
+    "rememberMe": "Beni hatırla",
+    "signInWithGoogle": "Google ile giriş yap",
+    "signUpWithGoogle": "Google ile kayıt ol",
+    "alreadyHaveAccount": "Zaten hesabınız var mı?",
+    "dontHaveAccount": "Hesabınız yok mu?",
+    "createAccount": "Hesap Oluştur",
+    "welcomeBack": "Tekrar Hoş Geldiniz",
+    "signInToAccount": "SMB Analytics hesabınıza giriş yapın",
+    "startJourney": "SMB Analytics ile yolculuğunuza başlayın",
+    "acceptTerms": "Hizmet Şartları ve Gizlilik Politikasını kabul ediyorum",
+    "checkEmail": "E-postanızı Kontrol Edin",
+    "resetLinkSent": "E-postanıza sıfırlama bağlantısı gönderdik",
+    "backToSignIn": "Giriş Sayfasına Dön"
+  },
+  "landing": {
+    "hero": {
+      "title": "İş Verilerinizi Bugün Gelire Dönüştürün",
+      "subtitle": "Temel iş verilerini iletişim odaklı eylemlerle anında gelir fırsatlarına dönüştüren Küresel KOBİ Analitik ve Müşteri Adayı Oluşturma Platformu.",
+      "cta": "Ücretsiz Analiz Başlat",
+      "watchDemo": "Demo İzle",
+      "trustedBy": "Dünya çapında 10.000+ KOBİ tarafından güveniliyor"
+    },
+    "features": {
+      "title": "Veriyi Gelire Dönüştürün",
+      "subtitle": "8 Temel Analitik + 5 Müşteri Adayı Oluşturma Türü",
+      "analytics": {
+        "title": "İş Analitiği",
+        "subtitle": "8 Temel Model",
+        "salesForecasting": "Satış Tahmini",
+        "customerAnalysis": "Müşteri Analizi",
+        "cashFlow": "Nakit Akışı Tahmini",
+        "paymentAnalysis": "Ödeme Analizi",
+        "productPerformance": "Ürün Performansı",
+        "seasonalTrends": "Mevsimsel Trendler",
+        "customerRetention": "Müşteri Elde Tutma",
+        "profitability": "Karlılık Analizi"
+      },
+      "leads": {
+        "title": "Müşteri Adayı Oluşturma",
+        "subtitle": "5 Temel Tür",
+        "overduePayment": "Geciken Ödeme Geri Kazanımı",
+        "customerReactivation": "Müşteri Yeniden Aktivasyonu",
+        "topCustomerUpsell": "En İyi Müşteri Ek Satışı",
+        "newCustomerProspects": "Yeni Müşteri Potansiyelleri",
+        "seasonalOpportunity": "Mevsimsel Fırsatlar"
+      }
+    },
+    "pricing": {
+      "title": "Basit ve Şeffaf Fiyatlandırma",
+      "subtitle": "İş ihtiyaçlarınıza uygun planı seçin",
+      "monthly": "Aylık",
+      "yearly": "Yıllık",
+      "save": "%20 Tasarruf",
+      "free": {
+        "name": "Ücretsiz",
+        "price": "₺0",
+        "period": "/ay",
+        "description": "Başlamak için mükemmel",
+        "features": [
+          "5MB veri yükleme",
+          "Ayda 5 analiz",
+          "1 kullanıcı",
+          "Temel analitik",
+          "E-posta desteği"
+        ],
+        "cta": "Ücretsiz Başla"
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "₺2.500",
+        "period": "/ay",
+        "description": "Büyüyen işletmeler için",
+        "features": [
+          "1GB veri yükleme",
+          "Ayda 2000 analiz",
+          "1 yönetici + 2 takım üyesi",
+          "50GB bulut depolama",
+          "Tüm analitik ve müşteri adayı oluşturma",
+          "WhatsApp ve e-posta entegrasyonu",
+          "Öncelikli destek"
+        ],
+        "cta": "Pro Deneme Başlat",
+        "popular": "En Popüler"
+      },
+      "proPlusName": "Pro Plus",
+      "proPlusPrice": "₺5.000",
+      "proPlusPeriod": "/ay",
+      "proPlusDescription": "Yerleşik işletmeler için",
+      "proPlusFeatures": [
+        "5GB veri yükleme",
+        "Ayda 5000 analiz",
+        "1 yönetici + 3 takım üyesi",
+        "100GB bulut depolama",
+        "Tüm özellikler + gelişmiş dışa aktarma",
+        "Özel entegrasyonlar",
+        "Öncelikli destek"
+      ],
+      "proPlusCta": "Pro Plus Deneme Başlat"
+    },
+    "demo": {
+      "title": "Çalışırken Görün",
+      "subtitle": "Gelir Artışı için 4 Basit Adım",
+      "step1": {
+        "title": "Verilerinizi Yükleyin",
+        "description": "Satış, müşteri veya fatura içeren CSV dosyaları"
+      },
+      "step2": {
+        "title": "Analiz Türünü Seçin",
+        "description": "8 analiz modeli + 5 müşteri adayı oluşturma türü"
+      },
+      "step3": {
+        "title": "Eyleme Geçirilebilir İçgörüler Alın",
+        "description": "İletişim isimleri, gelir etkisi, öncelik seviyeleri"
+      },
+      "step4": {
+        "title": "Hemen Harekete Geçin",
+        "description": "Telefon, e-posta, WhatsApp ile tek tıkla iletişim"
+      },
+      "tryDemo": "Şimdi Demo Dene"
+    }
+  },
+  "dashboard": {
+    "title": "İş Zekası Kontrol Paneli",
+    "subtitle": "İş verilerinizi anında gelir fırsatlarına dönüştürün",
+    "analytics": {
+      "title": "Analitik Genel Bakış",
+      "totalRevenue": "Toplam Gelir",
+      "totalCustomers": "Toplam Müşteri",
+      "avgOrderValue": "Ortalama Sipariş Değeri",
+      "conversionRate": "Dönüşüm Oranı",
+      "runAnalysis": "Yeni Analiz Çalıştır",
+      "viewReports": "Raporları Görüntüle"
+    },
+    "leads": {
+      "title": "Müşteri Adayı Oluşturma",
+      "totalLeads": "Toplam Müşteri Adayı",
+      "highPriority": "Yüksek Öncelik",
+      "revenueOpportunity": "Gelir Fırsatı",
+      "conversionRate": "Dönüşüm Oranı",
+      "generateLeads": "Yeni Müşteri Adayları Oluştur",
+      "viewLeads": "Tüm Müşteri Adaylarını Görüntüle"
+    },
+    "quickActions": {
+      "title": "Hızlı İşlemler",
+      "uploadData": "Veri Yükle",
+      "runAnalytics": "Analitik Çalıştır",
+      "generateLeads": "Müşteri Adayı Oluştur",
+      "exportResults": "Sonuçları Dışa Aktar",
+      "viewReports": "Raporları Görüntüle",
+      "manageTeam": "Takımı Yönet"
+    },
+    "recentActivity": {
+      "title": "Son Aktivite",
+      "noActivity": "Son aktivite yok"
+    }
+  },
+  "analytics": {
+    "title": "İş Analitiği",
+    "subtitle": "İletişim Odaklı İçgörülerle 8 Temel Analitik Modeli",
+    "uploadData": "Veri Yükle",
+    "selectAnalysis": "Analiz Türü Seç",
+    "runAnalysis": "Analiz Çalıştır",
+    "viewResults": "Sonuçları Görüntüle"
+  },
+  "leads": {
+    "title": "Müşteri Adayı Oluşturma",
+    "subtitle": "İletişim Odaklı Eylemlerle 5 Temel Müşteri Adayı Türü",
+    "generateLeads": "Müşteri Adayı Oluştur",
+    "exportLeads": "Müşteri Adaylarını Dışa Aktar",
+    "filterLeads": "Müşteri Adaylarını Filtrele",
+    "searchLeads": "Müşteri Adayı Ara",
+    "allTypes": "Tüm Türler",
+    "allUrgency": "Tüm Aciliyet",
+    "highPriority": "Yüksek Öncelik",
+    "mediumPriority": "Orta Öncelik",
+    "lowPriority": "Düşük Öncelik",
+    "callNow": "Şimdi Ara",
+    "sendEmail": "E-posta Gönder",
+    "sendWhatsApp": "WhatsApp Gönder"
+  },
+  "errors": {
+    "generic": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin.",
+    "network": "Ağ hatası. Lütfen bağlantınızı kontrol edin.",
+    "unauthorized": "Bu işlemi gerçekleştirme yetkiniz yok.",
+    "notFound": "İstenen kaynak bulunamadı.",
+    "validation": "Lütfen girişinizi kontrol edin ve tekrar deneyin.",
+    "fileUpload": "Dosya yükleme başarısız. Lütfen tekrar deneyin.",
+    "fileTooLarge": "Dosya çok büyük. Maksimum boyut {maxSize}MB.",
+    "invalidFileType": "Geçersiz dosya türü. Lütfen CSV dosyası yükleyin.",
+    "loginFailed": "Giriş başarısız. Lütfen kimlik bilgilerinizi kontrol edin.",
+    "signupFailed": "Kayıt başarısız. Lütfen tekrar deneyin.",
+    "passwordReset": "Şifre sıfırlama başarısız. Lütfen tekrar deneyin."
+  },
+  "success": {
+    "dataSaved": "Veri başarıyla kaydedildi",
+    "analysisComplete": "Analiz başarıyla tamamlandı",
+    "leadsGenerated": "Müşteri adayları başarıyla oluşturuldu",
+    "emailSent": "E-posta başarıyla gönderildi",
+    "profileUpdated": "Profil başarıyla güncellendi",
+    "passwordReset": "Şifre sıfırlama e-postası gönderildi",
+    "accountCreated": "Hesap başarıyla oluşturuldu"
+  }
+}

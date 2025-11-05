@@ -1,0 +1,121 @@
+{
+  "navigation": {
+    "features": "Features",
+    "demo": "Demo",
+    "pricing": "Pricing",
+    "login": "Login",
+    "signup": "Get Started"
+  },
+  "hero": {
+    "badge": "Turn Your Business Data Into Revenue Today",
+    "headline": {
+      "transform": "Transform Your",
+      "data": "SMB Data",
+      "revenue": "Into Revenue"
+    },
+    "subtitle": "Get immediate actionable insights with contact information and one-click communication tools. No complex setup required.",
+    "cta": {
+      "primary": "Start Free Analysis",
+      "secondary": "Watch Demo"
+    },
+    "stats": {
+      "smbs": "280M+ SMBs",
+      "impact": "$25K Avg Impact",
+      "languages": "10 Languages"
+    },
+    "trust": "Trusted by SMBs worldwide"
+  },
+  "features": {
+    "title": "Powerful Analytics & Lead Generation",
+    "subtitle": "Transform your basic business data into immediate revenue opportunities with our comprehensive suite of analytics and lead generation tools.",
+    "analytics": {
+      "title": "Business Analytics (8 Core Models)"
+    },
+    "leads": {
+      "title": "Lead Generation (5 Core Types)"
+    },
+    "benefits": {
+      "title": "Why SMBs Choose Our Platform",
+      "immediate": {
+        "title": "Immediate Results",
+        "description": "Get actionable insights with contact information in minutes, not weeks."
+      },
+      "global": {
+        "title": "Global Ready",
+        "description": "10 languages, local currencies, and cultural adaptation for worldwide SMBs."
+      },
+      "action": {
+        "title": "One-Click Action",
+        "description": "WhatsApp, email, and phone integration with pre-filled templates."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Choose the plan that fits your business needs. All plans include our core analytics and lead generation features.",
+    "popular": "Most Popular",
+    "plans": {
+      "free": {
+        "description": "Perfect for trying out our platform",
+        "cta": "Start Free"
+      },
+      "pro": {
+        "description": "Best for growing SMBs",
+        "cta": "Get Started"
+      },
+      "pro_plus": {
+        "description": "For established businesses",
+        "cta": "Get Started"
+      }
+    },
+    "includes": "All Plans Include",
+    "enterprise": {
+      "question": "Need a custom solution for your enterprise?",
+      "cta": "Contact Sales →"
+    }
+  },
+  "demo": {
+    "title": "See It In Action",
+    "subtitle": "Watch how our platform transforms your business data into immediate revenue opportunities in just 4 simple steps.",
+    "try": {
+      "title": "Try With Dummy Data",
+      "description": "Don't have your data ready? No problem! Try our platform with sample SMB data to see exactly how it works.",
+      "cta": {
+        "demo": "Try Demo Dashboard",
+        "upload": "Upload Your Data"
+      }
+    },
+    "results": {
+      "title": "Real Results from SMBs"
+    }
+  },
+  "footer": {
+    "description": "Transform your business data into immediate revenue opportunities with our global SMB analytics platform.",
+    "product": "Product",
+    "company": "Company",
+    "support": "Support",
+    "global": "Available Worldwide",
+    "copyright": "SMB Analytics Platform. All rights reserved."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "export": "Export",
+    "import": "Import",
+    "upload": "Upload",
+    "download": "Download"
+  }
+}

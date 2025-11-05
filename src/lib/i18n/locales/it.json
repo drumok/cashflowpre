@@ -1,0 +1,248 @@
+{
+  "common": {
+    "loading": "Caricamento...",
+    "error": "Errore",
+    "success": "Successo",
+    "cancel": "Annulla",
+    "save": "Salva",
+    "delete": "Elimina",
+    "edit": "Modifica",
+    "view": "Visualizza",
+    "back": "Indietro",
+    "next": "Avanti",
+    "previous": "Precedente",
+    "search": "Cerca",
+    "filter": "Filtra",
+    "export": "Esporta",
+    "import": "Importa",
+    "download": "Scarica",
+    "upload": "Carica",
+    "close": "Chiudi",
+    "open": "Apri",
+    "yes": "Sì",
+    "no": "No",
+    "ok": "OK"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "analytics": "Analisi",
+    "leads": "Generazione Lead",
+    "settings": "Impostazioni",
+    "profile": "Profilo",
+    "billing": "Fatturazione",
+    "help": "Aiuto",
+    "logout": "Disconnetti"
+  },
+  "auth": {
+    "signIn": "Accedi",
+    "signUp": "Registrati",
+    "signOut": "Disconnetti",
+    "email": "Indirizzo Email",
+    "password": "Password",
+    "confirmPassword": "Conferma Password",
+    "fullName": "Nome Completo",
+    "forgotPassword": "Password dimenticata?",
+    "resetPassword": "Reimposta Password",
+    "rememberMe": "Ricordami",
+    "signInWithGoogle": "Accedi con Google",
+    "signUpWithGoogle": "Registrati con Google",
+    "alreadyHaveAccount": "Hai già un account?",
+    "dontHaveAccount": "Non hai un account?",
+    "createAccount": "Crea Account",
+    "welcomeBack": "Bentornato",
+    "signInToAccount": "Accedi al tuo account SMB Analytics",
+    "startJourney": "Inizia il tuo viaggio con SMB Analytics",
+    "acceptTerms": "Accetto i Termini di Servizio e la Privacy Policy",
+    "checkEmail": "Controlla la tua Email",
+    "resetLinkSent": "Abbiamo inviato un link di reset alla tua email",
+    "backToSignIn": "Torna al Login"
+  },
+  "landing": {
+    "hero": {
+      "title": "Trasforma i Dati della tua Azienda in Ricavi Oggi",
+      "subtitle": "Piattaforma Globale di Analisi e Generazione Lead per PMI che converte i dati aziendali di base in opportunità di ricavo immediate con azioni centrate sui contatti.",
+      "cta": "Inizia Analisi Gratuita",
+      "watchDemo": "Guarda Demo",
+      "trustedBy": "Scelto da oltre 10.000 PMI in tutto il mondo"
+    },
+    "features": {
+      "title": "Trasforma i Dati in Ricavi",
+      "subtitle": "8 Analisi Principali + 5 Tipi di Generazione Lead",
+      "analytics": {
+        "title": "Analisi Aziendale",
+        "subtitle": "8 Modelli Principali",
+        "salesForecasting": "Previsione Vendite",
+        "customerAnalysis": "Analisi Clienti",
+        "cashFlow": "Previsione Flusso di Cassa",
+        "paymentAnalysis": "Analisi Pagamenti",
+        "productPerformance": "Performance Prodotti",
+        "seasonalTrends": "Tendenze Stagionali",
+        "customerRetention": "Retention Clienti",
+        "profitability": "Analisi Redditività"
+      },
+      "leads": {
+        "title": "Generazione Lead",
+        "subtitle": "5 Tipi Principali",
+        "overduePayment": "Recupero Pagamenti Scaduti",
+        "customerReactivation": "Riattivazione Clienti",
+        "topCustomerUpsell": "Upselling Top Clienti",
+        "newCustomerProspects": "Nuovi Prospect Clienti",
+        "seasonalOpportunity": "Opportunità Stagionali"
+      }
+    },
+    "pricing": {
+      "title": "Prezzi Semplici e Trasparenti",
+      "subtitle": "Scegli il piano che si adatta alle esigenze della tua azienda",
+      "monthly": "Mensile",
+      "yearly": "Annuale",
+      "save": "Risparmia 20%",
+      "free": {
+        "name": "Gratuito",
+        "price": "0€",
+        "period": "/mese",
+        "description": "Perfetto per iniziare",
+        "features": [
+          "5MB caricamento dati",
+          "5 analisi al mese",
+          "1 utente",
+          "Analisi di base",
+          "Supporto email"
+        ],
+        "cta": "Inizia Gratis"
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "89€",
+        "period": "/mese",
+        "description": "Per aziende in crescita",
+        "features": [
+          "1GB caricamento dati",
+          "2000 analisi al mese",
+          "1 admin + 2 membri team",
+          "50GB storage cloud",
+          "Tutte le analisi e generazione lead",
+          "Integrazione WhatsApp ed email",
+          "Supporto prioritario"
+        ],
+        "cta": "Inizia Prova Pro",
+        "popular": "Più Popolare"
+      },
+      "proPlusName": "Pro Plus",
+      "proPlusPrice": "179€",
+      "proPlusPeriod": "/mese",
+      "proPlusDescription": "Per aziende consolidate",
+      "proPlusFeatures": [
+        "5GB caricamento dati",
+        "5000 analisi al mese",
+        "1 admin + 3 membri team",
+        "100GB storage cloud",
+        "Tutte le funzionalità + export avanzato",
+        "Integrazioni personalizzate",
+        "Supporto prioritario"
+      ],
+      "proPlusCta": "Inizia Prova Pro Plus"
+    },
+    "demo": {
+      "title": "Guardalo in Azione",
+      "subtitle": "4 Semplici Passi per la Crescita dei Ricavi",
+      "step1": {
+        "title": "Carica i tuoi Dati",
+        "description": "File CSV con vendite, clienti o fatture"
+      },
+      "step2": {
+        "title": "Scegli il Tipo di Analisi",
+        "description": "8 modelli di analisi + 5 tipi di generazione lead"
+      },
+      "step3": {
+        "title": "Ottieni Insights Azionabili",
+        "description": "Nomi contatti, impatto ricavi, livelli priorità"
+      },
+      "step4": {
+        "title": "Agisci Immediatamente",
+        "description": "Comunicazione con un click via telefono, email, WhatsApp"
+      },
+      "tryDemo": "Prova Demo Ora"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard Business Intelligence",
+    "subtitle": "Trasforma i dati della tua azienda in opportunità di ricavo immediate",
+    "analytics": {
+      "title": "Panoramica Analisi",
+      "totalRevenue": "Ricavi Totali",
+      "totalCustomers": "Clienti Totali",
+      "avgOrderValue": "Valore Medio Ordine",
+      "conversionRate": "Tasso di Conversione",
+      "runAnalysis": "Esegui Nuova Analisi",
+      "viewReports": "Visualizza Report"
+    },
+    "leads": {
+      "title": "Generazione Lead",
+      "totalLeads": "Lead Totali",
+      "highPriority": "Alta Priorità",
+      "revenueOpportunity": "Opportunità Ricavi",
+      "conversionRate": "Tasso di Conversione",
+      "generateLeads": "Genera Nuovi Lead",
+      "viewLeads": "Visualizza Tutti i Lead"
+    },
+    "quickActions": {
+      "title": "Azioni Rapide",
+      "uploadData": "Carica Dati",
+      "runAnalytics": "Esegui Analisi",
+      "generateLeads": "Genera Lead",
+      "exportResults": "Esporta Risultati",
+      "viewReports": "Visualizza Report",
+      "manageTeam": "Gestisci Team"
+    },
+    "recentActivity": {
+      "title": "Attività Recente",
+      "noActivity": "Nessuna attività recente"
+    }
+  },
+  "analytics": {
+    "title": "Analisi Aziendale",
+    "subtitle": "8 Modelli di Analisi Principali con Insights Centrati sui Contatti",
+    "uploadData": "Carica Dati",
+    "selectAnalysis": "Seleziona Tipo Analisi",
+    "runAnalysis": "Esegui Analisi",
+    "viewResults": "Visualizza Risultati"
+  },
+  "leads": {
+    "title": "Generazione Lead",
+    "subtitle": "5 Tipi di Lead Principali con Azioni Centrate sui Contatti",
+    "generateLeads": "Genera Lead",
+    "exportLeads": "Esporta Lead",
+    "filterLeads": "Filtra Lead",
+    "searchLeads": "Cerca Lead",
+    "allTypes": "Tutti i Tipi",
+    "allUrgency": "Tutte le Urgenze",
+    "highPriority": "Alta Priorità",
+    "mediumPriority": "Media Priorità",
+    "lowPriority": "Bassa Priorità",
+    "callNow": "Chiama Ora",
+    "sendEmail": "Invia Email",
+    "sendWhatsApp": "Invia WhatsApp"
+  },
+  "errors": {
+    "generic": "Qualcosa è andato storto. Riprova.",
+    "network": "Errore di rete. Controlla la connessione.",
+    "unauthorized": "Non sei autorizzato a eseguire questa azione.",
+    "notFound": "Risorsa non trovata.",
+    "validation": "Controlla i dati inseriti e riprova.",
+    "fileUpload": "Caricamento file fallito. Riprova.",
+    "fileTooLarge": "File troppo grande. Dimensione massima {maxSize}MB.",
+    "invalidFileType": "Tipo file non valido. Carica un file CSV.",
+    "loginFailed": "Login fallito. Controlla le credenziali.",
+    "signupFailed": "Registrazione fallita. Riprova.",
+    "passwordReset": "Reset password fallito. Riprova."
+  },
+  "success": {
+    "dataSaved": "Dati salvati con successo",
+    "analysisComplete": "Analisi completata con successo",
+    "leadsGenerated": "Lead generati con successo",
+    "emailSent": "Email inviata con successo",
+    "profileUpdated": "Profilo aggiornato con successo",
+    "passwordReset": "Email reset password inviata",
+    "accountCreated": "Account creato con successo"
+  }
+}

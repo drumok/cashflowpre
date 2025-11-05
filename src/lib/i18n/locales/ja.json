@@ -1,0 +1,248 @@
+{
+  "common": {
+    "loading": "読み込み中...",
+    "error": "エラー",
+    "success": "成功",
+    "cancel": "キャンセル",
+    "save": "保存",
+    "delete": "削除",
+    "edit": "編集",
+    "view": "表示",
+    "back": "戻る",
+    "next": "次へ",
+    "previous": "前へ",
+    "search": "検索",
+    "filter": "フィルター",
+    "export": "エクスポート",
+    "import": "インポート",
+    "download": "ダウンロード",
+    "upload": "アップロード",
+    "close": "閉じる",
+    "open": "開く",
+    "yes": "はい",
+    "no": "いいえ",
+    "ok": "OK"
+  },
+  "navigation": {
+    "dashboard": "ダッシュボード",
+    "analytics": "分析",
+    "leads": "リード生成",
+    "settings": "設定",
+    "profile": "プロフィール",
+    "billing": "請求",
+    "help": "ヘルプ",
+    "logout": "ログアウト"
+  },
+  "auth": {
+    "signIn": "ログイン",
+    "signUp": "サインアップ",
+    "signOut": "ログアウト",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "confirmPassword": "パスワード確認",
+    "fullName": "氏名",
+    "forgotPassword": "パスワードを忘れましたか？",
+    "resetPassword": "パスワードリセット",
+    "rememberMe": "ログイン状態を保持",
+    "signInWithGoogle": "Googleでログイン",
+    "signUpWithGoogle": "Googleでサインアップ",
+    "alreadyHaveAccount": "既にアカウントをお持ちですか？",
+    "dontHaveAccount": "アカウントをお持ちでないですか？",
+    "createAccount": "アカウント作成",
+    "welcomeBack": "おかえりなさい",
+    "signInToAccount": "SMB Analyticsアカウントにログイン",
+    "startJourney": "SMB Analyticsの旅を始めましょう",
+    "acceptTerms": "利用規約とプライバシーポリシーに同意します",
+    "checkEmail": "メールを確認してください",
+    "resetLinkSent": "リセットリンクをメールに送信しました",
+    "backToSignIn": "ログインに戻る"
+  },
+  "landing": {
+    "hero": {
+      "title": "今日からビジネスデータを収益に変換",
+      "subtitle": "基本的なビジネスデータを連絡先中心のアクションで即座の収益機会に変換するグローバル中小企業分析・リード生成プラットフォーム。",
+      "cta": "無料分析を開始",
+      "watchDemo": "デモを見る",
+      "trustedBy": "世界中の10,000以上の中小企業に信頼されています"
+    },
+    "features": {
+      "title": "データを収益に変換",
+      "subtitle": "8つのコア分析 + 5つのリード生成タイプ",
+      "analytics": {
+        "title": "ビジネス分析",
+        "subtitle": "8つのコアモデル",
+        "salesForecasting": "売上予測",
+        "customerAnalysis": "顧客分析",
+        "cashFlow": "キャッシュフロー予測",
+        "paymentAnalysis": "支払い分析",
+        "productPerformance": "製品パフォーマンス",
+        "seasonalTrends": "季節トレンド",
+        "customerRetention": "顧客維持",
+        "profitability": "収益性分析"
+      },
+      "leads": {
+        "title": "リード生成",
+        "subtitle": "5つのコアタイプ",
+        "overduePayment": "延滞支払い回収",
+        "customerReactivation": "顧客再活性化",
+        "topCustomerUpsell": "トップ顧客アップセル",
+        "newCustomerProspects": "新規顧客見込み客",
+        "seasonalOpportunity": "季節的機会"
+      }
+    },
+    "pricing": {
+      "title": "シンプルで透明な料金",
+      "subtitle": "ビジネスニーズに合ったプランを選択",
+      "monthly": "月額",
+      "yearly": "年額",
+      "save": "20%節約",
+      "free": {
+        "name": "無料",
+        "price": "¥0",
+        "period": "/月",
+        "description": "始めるのに最適",
+        "features": [
+          "5MBデータアップロード",
+          "月5回の分析",
+          "1ユーザー",
+          "基本分析",
+          "メールサポート"
+        ],
+        "cta": "無料で開始"
+      },
+      "pro": {
+        "name": "プロ",
+        "price": "¥10,900",
+        "period": "/月",
+        "description": "成長企業向け",
+        "features": [
+          "1GBデータアップロード",
+          "月2000回の分析",
+          "1管理者 + 2チームメンバー",
+          "50GBクラウドストレージ",
+          "全分析・リード生成",
+          "WhatsApp・メール統合",
+          "優先サポート"
+        ],
+        "cta": "プロトライアル開始",
+        "popular": "最も人気"
+      },
+      "proPlusName": "プロプラス",
+      "proPlusPrice": "¥21,900",
+      "proPlusPeriod": "/月",
+      "proPlusDescription": "確立された企業向け",
+      "proPlusFeatures": [
+        "5GBデータアップロード",
+        "月5000回の分析",
+        "1管理者 + 3チームメンバー",
+        "100GBクラウドストレージ",
+        "全機能 + 高度エクスポート",
+        "カスタム統合",
+        "優先サポート"
+      ],
+      "proPlusCta": "プロプラストライアル開始"
+    },
+    "demo": {
+      "title": "実際の動作を見る",
+      "subtitle": "収益成長への4つの簡単なステップ",
+      "step1": {
+        "title": "データをアップロード",
+        "description": "売上、顧客、請求書のCSVファイル"
+      },
+      "step2": {
+        "title": "分析タイプを選択",
+        "description": "8つの分析モデル + 5つのリード生成タイプ"
+      },
+      "step3": {
+        "title": "実行可能な洞察を取得",
+        "description": "連絡先名、収益影響、優先度レベル"
+      },
+      "step4": {
+        "title": "即座にアクション",
+        "description": "電話、メール、WhatsAppでワンクリック通信"
+      },
+      "tryDemo": "今すぐデモを試す"
+    }
+  },
+  "dashboard": {
+    "title": "ビジネスインテリジェンスダッシュボード",
+    "subtitle": "ビジネスデータを即座の収益機会に変換",
+    "analytics": {
+      "title": "分析概要",
+      "totalRevenue": "総収益",
+      "totalCustomers": "総顧客数",
+      "avgOrderValue": "平均注文価値",
+      "conversionRate": "コンバージョン率",
+      "runAnalysis": "新しい分析を実行",
+      "viewReports": "レポートを表示"
+    },
+    "leads": {
+      "title": "リード生成",
+      "totalLeads": "総リード数",
+      "highPriority": "高優先度",
+      "revenueOpportunity": "収益機会",
+      "conversionRate": "コンバージョン率",
+      "generateLeads": "新しいリードを生成",
+      "viewLeads": "全リードを表示"
+    },
+    "quickActions": {
+      "title": "クイックアクション",
+      "uploadData": "データアップロード",
+      "runAnalytics": "分析実行",
+      "generateLeads": "リード生成",
+      "exportResults": "結果エクスポート",
+      "viewReports": "レポート表示",
+      "manageTeam": "チーム管理"
+    },
+    "recentActivity": {
+      "title": "最近のアクティビティ",
+      "noActivity": "最近のアクティビティはありません"
+    }
+  },
+  "analytics": {
+    "title": "ビジネス分析",
+    "subtitle": "連絡先中心の洞察を持つ8つのコア分析モデル",
+    "uploadData": "データアップロード",
+    "selectAnalysis": "分析タイプ選択",
+    "runAnalysis": "分析実行",
+    "viewResults": "結果表示"
+  },
+  "leads": {
+    "title": "リード生成",
+    "subtitle": "連絡先中心のアクションを持つ5つのコアリードタイプ",
+    "generateLeads": "リード生成",
+    "exportLeads": "リードエクスポート",
+    "filterLeads": "リードフィルター",
+    "searchLeads": "リード検索",
+    "allTypes": "全タイプ",
+    "allUrgency": "全緊急度",
+    "highPriority": "高優先度",
+    "mediumPriority": "中優先度",
+    "lowPriority": "低優先度",
+    "callNow": "今すぐ電話",
+    "sendEmail": "メール送信",
+    "sendWhatsApp": "WhatsApp送信"
+  },
+  "errors": {
+    "generic": "何かが間違っています。もう一度お試しください。",
+    "network": "ネットワークエラー。接続を確認してください。",
+    "unauthorized": "この操作を実行する権限がありません。",
+    "notFound": "要求されたリソースが見つかりません。",
+    "validation": "入力を確認してもう一度お試しください。",
+    "fileUpload": "ファイルアップロードに失敗しました。もう一度お試しください。",
+    "fileTooLarge": "ファイルが大きすぎます。最大サイズは{maxSize}MBです。",
+    "invalidFileType": "無効なファイルタイプです。CSVファイルをアップロードしてください。",
+    "loginFailed": "ログインに失敗しました。認証情報を確認してください。",
+    "signupFailed": "サインアップに失敗しました。もう一度お試しください。",
+    "passwordReset": "パスワードリセットに失敗しました。もう一度お試しください。"
+  },
+  "success": {
+    "dataSaved": "データが正常に保存されました",
+    "analysisComplete": "分析が正常に完了しました",
+    "leadsGenerated": "リードが正常に生成されました",
+    "emailSent": "メールが正常に送信されました",
+    "profileUpdated": "プロフィールが正常に更新されました",
+    "passwordReset": "パスワードリセットメールが送信されました",
+    "accountCreated": "アカウントが正常に作成されました"
+  }
+}
